@@ -1,0 +1,7 @@
+<div class="tracker-container">
+  <iframe
+    src="https://www.followmychallenge.com/live/locomotion26/?_gl=1*1sb8ejq*_ga*MTM3MDY5MTA1Mi4xNzkwMTI2ODk2*_ga_7PK8NQKE7V*czE3OTI2MzYwNDMkbzMkZzAkdDE3OTI2MzYwNDUkajU4JGwwJGgw"
+    allow="geolocation"
+    scrolling="no">
+  </iframe>
+</div>

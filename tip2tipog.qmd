@@ -1,0 +1,49 @@
+---
+page-layout: full
+title-block-banner: false
+---
+
+::: {.race-header}
+![](images/tip2tip-hero.jpg)
+
+<div class="fkt-hero-content">
+<div class="fkt-kicker">The Long Way</div>
+<h1>Tip 2 Tip</h1>
+<div class="fkt-hero-stats">
+<span><strong>1,000–1,200</strong> KM</span>
+<span><strong>5</strong> DAYS</span>
+<span><strong>SELF-SUPPORTED</strong></span>
+</div>
+</div>
+
+:::
+
+  <h2>THE ORIGINAL</h2>
+
+  <p>
+    Start at <strong>The Hawk Beach</strong>, with the Atlantic
+    behind you. Finish at <strong>Meat Cove</strong>, about
+    1,000–1,200 km of Nova Scotia later. What happens in
+    between is largely up to you.
+  </p>
+
+  <p>
+    There is no prescribed route. Riders are given a series
+    of checkpoints scattered across the province and choose
+    how to connect them. The shortest route isn't always the
+    fastest, and the best idea at noon can look considerably
+    worse at 2 a.m.
+  </p>
+
+  <p>
+    Ride solo or as a pair. Carry what you need. Find food,
+    water and somewhere to sleep along the way. No support
+    vehicles. No private supply drops. Just you, your bike,
+    five days and a very long way north.
+  </p>
+
+  <p>
+    Tip 2 Tip grew from a few friends riding end-to-end in
+    2020 to its first race in 2021. Since then, each edition
+    has taken riders on a different journey across Nova Scotia.
+  </p>

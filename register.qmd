@@ -1,0 +1,43 @@
+---
+title: "Registration"
+title-block-style: none
+page-layout: full
+---
+
+::: {.race-header .column-screen}
+![](images/register-hero.jpg)
+
+<div class="fkt-hero-content">
+<div class="fkt-kicker">The Long Way</div>
+<h1>Registration</h1>
+</div>
+
+:::
+
+::: {.registration-page}
+## Ready to Ride a Long Way?
+
+Race registration will go live when early-bird entries open.
+
+Opening dates haven't been confirmed yet. We'll announce registration dates, entry fees and race details here ahead of each event. Check back for updates.
+
+In the meantime, explore the races and find your next long way.
+
+<nav class="registration-races" aria-label="Explore the races">
+  <a href="tip2tiprace.qmd">
+    <img src="images/logos/tip2tip-logo.jpg" alt="Tip 2 Tip Nova Scotia">
+  </a>
+  <a href="tip2tipgravel.qmd" class="registration-mystery">
+    <span aria-hidden="true">?</span>
+    <span class="race-card-label">The Hodge Podge</span>
+  </a>
+  <a href="locomotion-600.qmd">
+    <img src="images/logos/loco600-logo.png" alt="LOCOmotion 600">
+  </a>
+  <a href="noreaster-race.qmd" class="registration-mystery">
+    <span aria-hidden="true">?</span>
+    <span class="race-card-label">The Nor'Easter</span>
+  </a>
+</nav>
+
+:::

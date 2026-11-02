@@ -1,0 +1,74 @@
+---
+page-layout: full
+title-block-banner: false
+---
+::: {.race-header}
+![](images/about-hero.jpg)
+
+<div class="about-hero-content">
+<div class="about-title">
+The Long Way Endurance Cycling Series
+</div>
+<p class="about-tagline">NOVA SCOTIA'S ENDURANCE CYCLING SERIES</p>
+</div>
+
+:::
+
+The Long Way started with three cyclists looking for a little adventure closer to home. Back in 2020, with international races off the calendar and no ultra-endurance cycling events to be found in Atlantic Canada, a group of soon-to-be friends each set out to ride across Nova Scotia. From The Hawk Beach to Meat Cove, roughly 750 km from one end of the province to the other.
+
+Somewhere along the way, an idea took hold: if we wanted this kind of adventure here, surely other people did too? And so, Tip 2 Tip was born.
+
+What started as a simple idea between friends has since grown into <strong>The Long Way</strong>, a series of self-supported endurance cycling events that take riders across Nova Scotia and beyond. Different distances, different routes, different ways to get there, but the main idea is still the same: get on your bike, go somewhere, and see what happens along the way.
+
+```{=html}
+<div class="race-cards">
+
+  <a href="tip2tiprace.qmd" class="race-card">
+    <div class="race-logo">
+      <img src="images/logos/tip2tip-logo.jpg" alt="Tip 2 Tip Nova Scotia logo">
+    </div>
+    <div class="race-card-content">
+      <div class="race-card-label">THE ORIGINAL</div>
+      <h2>Tip 2 Tip Nova Scotia</h2>
+      <p>Choose your route. Hit the checkpoints· Self-supported</p>
+      <span class="race-card-link">Explore the original →</span>
+    </div>
+  </a>
+
+  <a href="tip2tipgravel.qmd" class="race-card race-card-secret">
+    <div class="race-logo race-logo-secret">
+      <span>?</span>
+    </div>
+    <div class="race-card-content">
+      <div class="race-card-label">TIP 2 TIP GRAVEL RACE</div>
+      <h2>The Hodge Podge</h2>
+      <p>Gravel · Point-to-point fixed route· Self-supported</p>
+      <span class="race-card-link">Explore the race →</span>
+    </div>
+  </a>
+
+  <a href="locomotion-600.qmd" class="race-card">
+    <div class="race-logo">
+      <img src="images/logos/loco600-logo.png" alt="LOCOmotion 600 logo">
+    </div>
+    <div class="race-card-content">
+      <div class="race-card-label">THE 600</div>
+      <h2>LOCOmotion 600</h2>
+      <p>~650 km · Fixed route · Self-supported</p>
+      <span class="race-card-link">Explore the ride →</span>
+    </div>
+  </a>
+
+  <a href="noreaster-race.qmd" class="race-card race-card-secret">
+    <div class="race-logo race-logo-secret">
+      <span>?</span>
+    </div>
+    <div class="race-card-content">
+      <div class="race-card-label">COMING 2028</div>
+      <h2>The Nor'Easter</h2>
+      <p>Montreal → Halifax · New challenge in development</p>
+      <span class="race-card-link">See the early details →</span>
+    </div>
+  </a>
+</div>
+```

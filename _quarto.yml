@@ -1,0 +1,56 @@
+project:
+  type: website
+
+website:
+  title: ""
+  navbar:
+    left:
+      - href: index.qmd
+        text: About
+      - href: tip2tip-fkt.qmd
+        text: Tip 2 Tip FKT
+
+      - text: Races
+        menu:
+          - href: locomotion-600.qmd
+            text: LOCOmotion 600
+          - href: tip2tiprace.qmd
+            text: Tip 2 Tip
+          - href: tip2tipgravel.qmd
+            text: The Hodge Podge
+
+      - text: Alumni
+        menu:
+          - href: alumni.qmd
+            text: Tip 2 Tip
+          - href: alumni-locomotion.qmd
+            text: LOCOmotion 600
+      
+      - href: tracker.qmd
+        text: Live Tracker
+
+      - text: Resources
+        menu:
+          - href: FAQ.qmd
+            text: FAQ
+          - href: rules.qmd
+            text: Rules
+
+      - href: register.qmd
+        text: Register
+      - href: shop.qmd
+        text: Merch
+    right:
+      - icon: instagram
+        href: https://www.instagram.com/tip2tip_ns/
+        aria-label: Instagram
+
+      - icon: facebook
+        href: https://www.facebook.com/tip2tipns/
+        aria-label: Facebook
+
+format:
+  html:
+    theme: lux
+    css: styles.css
+    toc: false

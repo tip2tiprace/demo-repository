@@ -1,0 +1,35 @@
+---
+title: "The Nor'Easter"
+page-layout: full
+title-block-banner: false
+---
+
+::: {.race-header}
+![](images/loco-hero.jpg)
+
+<div class="fkt-hero-content">
+<div class="fkt-kicker">COMING 2028</div>
+<h1>The Nor'Easter</h1>
+<div class="fkt-hero-stats">
+<span><strong>Montreal</strong> START</span>
+<span><strong>Halifax</strong> FINISH</span>
+<span><strong>Self-Supported</strong></span>
+</div>
+</div>
+
+:::
+
+## A NEW EASTBOUND CHALLENGE
+
+The Nor'Easter, the next race in The Long Way series, is in development for **2028**.
+
+The concept is simple: start in **Montreal**, finish in **Halifax**, and manage yourself the whole way.
+
+This page is an early teaser, not a full race manual. Distances, checkpoints, rules, and registration details are still being finalized.
+
+### What we can share right now
+
+- Point-to-point route concept: Montreal to Halifax
+- Self-supported format
+- Planned launch year: 2028
+- More details coming as route planning continues
