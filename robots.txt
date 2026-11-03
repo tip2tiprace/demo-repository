@@ -1,1 +1,0 @@
-Sitemap: https://tip2tiprace.github.io/demo-repository/sitemap.xml
