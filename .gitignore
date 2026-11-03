@@ -19,3 +19,5 @@ Desktop.ini
 *~
 *.swp
 *.swo
+
+**/*.quarto_ipynb

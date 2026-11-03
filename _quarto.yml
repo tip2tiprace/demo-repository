@@ -54,3 +54,6 @@ format:
     theme: lux
     css: styles.css
     toc: false
+    include-in-header:
+      text: |
+        <meta name="robots" content="noindex, nofollow">
