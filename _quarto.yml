@@ -18,6 +18,8 @@ website:
             text: Tip 2 Tip
           - href: tip2tipgravel.qmd
             text: The Hodge Podge
+          - href: noreaster-race.qmd
+            text: The Nor'Easter
 
       - text: Alumni
         menu:
