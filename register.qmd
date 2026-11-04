@@ -19,9 +19,22 @@ page-layout: full
 
 Race registration will go live when early-bird entries open.
 
-Opening dates haven't been confirmed yet. We'll announce registration dates, entry fees and race details here ahead of each event. Check back for updates.
+We'll announce registration dates, entry fees and race details here ahead of each event. Check back for updates.
 
-In the meantime, explore the races and find your next long way.
+## Race Calendar
+
+Plan your next long way with the race dates announced so far.
+
+| Race | When? |
+|:-----|:------|
+| [LOCOmotion 600](locomotion-600.qmd) | **June 12–14** |
+| [Tip 2 Tip](tip2tiprace.qmd) | **August** — exact dates to be announced |
+| [The Hodge Podge](tip2tipgravel.qmd) | **Early October 2027** — exact dates to be announced |
+| [The Nor'Easter](noreaster-race.qmd) | **Planned for 2028** — exact dates to be announced |
+
+These are race dates, not registration opening dates. Entry opening dates will be announced separately.
+
+## Explore the Races
 
 <nav class="registration-races" aria-label="Explore the races">
   <a href="tip2tiprace.qmd">

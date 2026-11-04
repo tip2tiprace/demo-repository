@@ -27,9 +27,14 @@ The concept is simple: start in **Montreal**, finish in **Halifax**, and manage 
 
 This page is an early teaser, not a full race manual. Distances, checkpoints, rules, and registration details are still being finalized.
 
-### What we can share right now
+More details coming as route planning continues. Follow us on Instagram for updates and announcements as we finalize the route and race details.
 
-- Point-to-point route concept: Montreal to Halifax
-- Self-supported format
-- Planned launch year: 2028
-- More details coming as route planning continues
+## When?
+
+**Planned for 2028.** Exact dates will be announced.
+
+**Always be prepared.** Nova Scotia's coastal weather can turn cold, wet and windy, even in summer. Hypothermia is a risk at any time of year. Carry warm layers and waterproof gear, check the forecast, and be ready for changing conditions.
+
+::: {.race-resources}
+[Race Rules](rules.qmd) [FAQ](FAQ.qmd)
+:::

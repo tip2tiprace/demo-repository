@@ -49,15 +49,22 @@ title-block-banner: false
 
 ***
 
+## When?
+
+**August.** Exact dates will be announced.
+
+**Always be prepared.** Nova Scotia's coastal weather can turn cold, wet and windy, even in summer. Hypothermia is a risk at any time of year. Carry warm layers and waterproof gear, check the forecast, and be ready for changing conditions.
+
 ## Past Editions
 
 Different checkpoints, different adventures. Explore the past editions and see how the race has evolved.
 
 - **2026 — No race.** Organiser Ashleigh Myles was busy setting the FKT and World Record for the Pan American Highway, Alaska to Argentina!
-- **2025 — Oops! All the Tips Edition.** [View the race tracker](https://www.followmychallenge.com/live/tip2tipns25/).
-- **2024** — [View the race tracker](https://www.followmychallenge.com/live/tip2tipns24/).
+- **2025 — Oops! All the Tips Edition.** August 2–7. [View the race tracker](https://www.followmychallenge.com/live/tip2tipns25/).
+- **2024** — August 24–29. [View the race tracker](https://www.followmychallenge.com/live/tip2tipns24/).
 - **2023** — [View the race tracker](https://www.followmychallenge.com/live/tip2tipns23/).
 - **2022** — [View the race tracker](https://www.followmychallenge.com/live/tip2tipns22/).
+- **2021** — August 27 – September 1.
 
 ### The Riders Who Took the Long Way
 
@@ -94,3 +101,7 @@ Meet the riders from previous editions and explore their results.
 
 </div>
 ```
+
+::: {.race-resources}
+[Race Rules](rules.qmd) [FAQ](FAQ.qmd)
+:::

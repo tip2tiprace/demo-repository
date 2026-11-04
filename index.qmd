@@ -40,7 +40,7 @@ What started as a simple idea between friends has since grown into <strong>The L
       <span>?</span>
     </div>
     <div class="race-card-content">
-      <div class="race-card-label">TIP 2 TIP GRAVEL RACE</div>
+      <div class="race-card-label">COMING 2027</div>
       <h2>The Hodge Podge</h2>
       <p>Gravel · Point-to-point fixed route· Self-supported</p>
       <span class="race-card-link">Explore the race →</span>

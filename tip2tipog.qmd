@@ -47,3 +47,7 @@ title-block-banner: false
     2020 to its first race in 2021. Since then, each edition
     has taken riders on a different journey across Nova Scotia.
   </p>
+
+::: {.race-resources}
+[Race Rules](rules.qmd) [FAQ](FAQ.qmd)
+:::

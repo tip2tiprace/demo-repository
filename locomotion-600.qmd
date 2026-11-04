@@ -30,6 +30,12 @@ It's challenging, but it's also designed to be approachable. The LOCOmotion is a
 
 Ride it solo or as a pair. You have **2.5 days to get yourself around the route and back to Halifax.**
 
+## When?
+
+**June 12–14.**
+
+**Always be prepared.** Nova Scotia's coastal weather can turn cold, wet and windy, even in summer. Hypothermia is a risk at any time of year. Carry warm layers and waterproof gear, check the forecast, and be ready for changing conditions.
+
 ***
 ## The Route
 
@@ -102,4 +108,8 @@ you'll leave with stories, new friends and maybe even a reason to do it all agai
 
 ::: {.race-header}
 ![](images/loco-sub-1.jpg)
+:::
+
+::: {.race-resources}
+[Race Rules](rules.qmd) [FAQ](FAQ.qmd)
 :::
