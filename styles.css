@@ -90,6 +90,25 @@ main#quarto-document-content {
   margin: 1.25rem 0 0 0;
 }
 
+.race-resources p {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
+  margin: 0 0 2rem;
+}
+
+.race-resources a {
+  padding: 0.75rem 1.5rem;
+  border: 1px solid currentColor;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.race-resources a:hover {
+  text-decoration: underline;
+}
+
 /* RACE CARDS */
 
 .race-cards {
@@ -499,13 +518,54 @@ main#quarto-document-content {
 /* TIP 2 TIP GRAVEL HERO */
 
 .tip2tip-offroad {
-  max-width: 900px;
+  width: 100%;
+  max-width: 1440px;
   margin: 0 auto;
-  padding: 5rem 2rem;
+  padding: 2rem clamp(1.5rem, 4vw, 4rem) 4rem;
+}
+
+.offroad-story {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  align-items: stretch;
+  gap: clamp(2rem, 5vw, 5rem);
+}
+
+.offroad-story + .offroad-story {
+  margin-top: clamp(3rem, 7vw, 6rem);
+}
+
+.offroad-story-text {
+  min-width: 0;
+  align-self: center;
+}
+
+.offroad-story-image {
+  position: relative;
+  min-height: 28rem;
+}
+
+.offroad-story-image img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+
+.offroad-story-reverse .offroad-story-image {
+  grid-column: 1;
+  grid-row: 1;
+}
+
+.offroad-story-reverse .offroad-story-text {
+  grid-column: 2;
+  grid-row: 1;
 }
 
 .tip2tip-offroad h2 {
-  font-size: clamp(2.5rem, 6vw, 5rem);
+  font-size: clamp(2rem, 4vw, 3.5rem);
   font-weight: 900;
   line-height: 1;
   letter-spacing: -0.05em;
@@ -513,12 +573,26 @@ main#quarto-document-content {
 }
 
 .tip2tip-offroad p {
-  font-size: 1.2rem;
+  font-size: 1.1rem;
   line-height: 1.7;
-  max-width: 750px;
 }
 
+@media (max-width: 700px) {
+  .offroad-story {
+    grid-template-columns: minmax(0, 1fr);
+  }
 
+  .offroad-story-reverse .offroad-story-image,
+  .offroad-story-reverse .offroad-story-text {
+    grid-column: auto;
+    grid-row: auto;
+  }
+
+  .offroad-story-image {
+    min-height: 0;
+    aspect-ratio: 4 / 3;
+  }
+}
 
 .race-formats {
   max-width: 1100px;
