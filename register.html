@@ -36,6 +36,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<link href="./images/logos/longway-logo.jpg" rel="icon" type="image/jpeg">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
@@ -85,6 +86,12 @@ ul.task-list li input[type="checkbox"] {
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    <img src="./images/logos/longway-logo.jpg" alt="The Long Way home" class="navbar-logo light-content">
+    <img src="./images/logos/longway-logo.jpg" alt="The Long Way home" class="navbar-logo dark-content">
+    </a>
+  </div>
             <div id="quarto-search" class="" title="Search"></div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
@@ -211,8 +218,8 @@ Registration
 <div class="registration-page">
 <section id="ready-to-ride-a-long-way" class="level2">
 <h2 class="anchored" data-anchor-id="ready-to-ride-a-long-way">Ready to Ride a Long Way?</h2>
-<p>Race registration will go live when early-bird entries open.</p>
-<p>We’ll announce registration dates, entry fees and race details here ahead of each event. Check back for updates.</p>
+<p><strong>Registration for all races opens in January/February 2027.</strong></p>
+<p>We’ll announce the exact registration opening dates, entry fees and race details here. Check back for updates.</p>
 </section>
 <section id="race-calendar" class="level2">
 <h2 class="anchored" data-anchor-id="race-calendar">Race Calendar</h2>
@@ -231,11 +238,11 @@ Registration
 </tr>
 <tr class="even">
 <td style="text-align: left;"><a href="./tip2tiprace.html">Tip 2 Tip</a></td>
-<td style="text-align: left;"><strong>August</strong> — exact dates to be announced</td>
+<td style="text-align: left;"><strong>August 28 – September 2, 2027</strong></td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><a href="./tip2tipgravel.html">The Hodge Podge</a></td>
-<td style="text-align: left;"><strong>Early October 2027</strong> — exact dates to be announced</td>
+<td style="text-align: left;"><strong>September 25 – October 3, 2027</strong></td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"><a href="./noreaster-race.html">The Nor’Easter</a></td>
@@ -243,7 +250,7 @@ Registration
 </tr>
 </tbody>
 </table>
-<p>These are race dates, not registration opening dates. Entry opening dates will be announced separately.</p>
+<p>These are race dates, not registration opening dates. Registration opens in January/February 2027; exact opening dates will be announced.</p>
 </section>
 <section id="explore-the-races" class="level2">
 <h2 class="anchored" data-anchor-id="explore-the-races">Explore the Races</h2>
@@ -329,7 +336,7 @@ Registration
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/tip2tiprace\.github\.io\/demo-repository\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
