@@ -2,6 +2,13 @@
 
 /* ABOUT STYLES */
 
+.navbar-logo {
+  width: 3.5rem;
+  height: 3.5rem;
+  max-height: none;
+  object-fit: contain;
+}
+
 body.nav-fixed #quarto-content {
   padding-top: 0 !important;
 }
@@ -73,13 +80,14 @@ main#quarto-document-content {
   padding: clamp(2rem, 6vw, 6rem) clamp(2rem, 6vw, 6rem) clamp(0.75rem, 1.5vw, 1.25rem);
 }
 
-.about-title {
-  color: white;
-  font-size: clamp(2rem, 6vw, 4.25rem);
-  font-weight: 900;
-  line-height: 0.9;
-  letter-spacing: -0.06em;
-  margin: 0;
+.race-header .about-hero-logo {
+  position: static;
+  display: block;
+  width: clamp(10rem, 24vw, 20rem);
+  max-width: 100%;
+  height: auto;
+  object-fit: contain;
+  margin-right: auto;
 }
 
 .about-tagline {
@@ -107,6 +115,60 @@ main#quarto-document-content {
 
 .race-resources a:hover {
   text-decoration: underline;
+}
+
+.follow-us {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  align-items: center;
+  gap: clamp(2rem, 4vw, 4rem);
+  margin: 0 auto 5rem;
+  text-align: center;
+}
+
+.follow-us-logo {
+  display: block;
+  width: 100%;
+  max-width: 350px;
+  height: auto;
+  margin: 0 auto;
+}
+
+.follow-us-content {
+  min-width: 0;
+}
+
+.follow-us h2 {
+  font-size: clamp(2rem, 4vw, 3.5rem);
+  font-weight: 900;
+  letter-spacing: -0.04em;
+}
+
+.follow-us-links {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 3rem;
+  margin-top: 2rem;
+}
+
+.follow-us-links a {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.75rem;
+  color: inherit;
+}
+
+.follow-us-links .bi {
+  font-size: 3rem;
+  line-height: 1;
+}
+
+@media (max-width: 700px) {
+  .follow-us {
+    grid-template-columns: minmax(0, 1fr);
+  }
 }
 
 /* RACE CARDS */
@@ -457,15 +519,19 @@ main#quarto-document-content {
 }
 
 .race-registration-logo {
+  position: relative;
+  aspect-ratio: 1;
   border: 1px solid #ddd;
 }
 
 .race-registration-logo img {
+  position: absolute;
+  inset: 1rem;
   display: block;
-  width: 100%;
-  max-width: 300px;
-  height: auto;
-  max-height: 300px;
+  width: calc(100% - 2rem);
+  max-width: none;
+  height: calc(100% - 2rem);
+  max-height: none;
   object-fit: contain;
 }
 
@@ -594,12 +660,52 @@ main#quarto-document-content {
   }
 }
 
+.race-route {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  align-items: start;
+  width: calc(100% - 3rem);
+  max-width: 1200px;
+  margin: 3rem auto;
+  gap: clamp(2rem, 4vw, 4rem);
+}
+
+.race-route-map,
+.race-route-text {
+  min-width: 0;
+}
+
+.race-route-map iframe {
+  display: block;
+  width: 100%;
+  height: clamp(24rem, 45vw, 36rem);
+  border: 0;
+  margin-bottom: 1rem;
+}
+
+.race-route-text h2 {
+  margin-top: 0;
+}
+
+@media (max-width: 700px) {
+  .race-route {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}
+
 .race-formats {
   max-width: 1100px;
   margin: 0 auto 5rem;
   padding: 0 1.5rem;
 }
 
+.race-formats.column-screen,
+.loco-register.column-screen {
+  width: calc(100% - 3rem);
+  max-width: 1200px;
+}
+
+:where(.race-page) main h2,
 .race-formats h2 {
   font-size: clamp(2rem, 4vw, 3.5rem);
   font-weight: 900;
@@ -618,10 +724,39 @@ main#quarto-document-content {
   padding: clamp(1.5rem, 3vw, 3rem);
 }
 
+.race-format-full {
+  background: #222;
+  color: #fff;
+  border-color: #222;
+}
+
+.race-format-relay {
+  background: #f3eee4;
+  color: #222;
+  border-color: #d7cebe;
+}
+
 .race-format-card h3 {
-  margin: 0 0 1.5rem;
-  font-size: clamp(1.3rem, 2.5vw, 1.8rem);
+  color: inherit;
+  margin: 0 0 1rem;
+  font-size: clamp(1.8rem, 3vw, 2.6rem);
+  font-weight: 900;
+  line-height: 1.05;
+  letter-spacing: -0.04em;
+}
+
+.race-format-label {
+  font-size: 0.8rem;
   font-weight: 800;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.race-format-summary {
+  margin: 2rem 0 1.5rem;
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 1.4;
 }
 
 .race-format-card p:last-child {

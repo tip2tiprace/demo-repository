@@ -6,19 +6,17 @@ title-block-banner: false
 ![](images/about-hero.jpg)
 
 <div class="about-hero-content">
-<div class="about-title">
-The Long Way Endurance Cycling Series
-</div>
-<p class="about-tagline">NOVA SCOTIA'S ENDURANCE CYCLING SERIES</p>
+<img class="about-hero-logo" src="images/logos/longway-logo.jpg" alt="The Long Way Endurance Cycling Series">
+<p class="about-tagline"></p>
 </div>
 
 :::
 
-The Long Way started with three cyclists looking for a little adventure closer to home. Back in 2020, with international races off the calendar and no ultra-endurance cycling events to be found in Atlantic Canada, a group of soon-to-be friends each set out to ride across Nova Scotia. From The Hawk Beach to Meat Cove, roughly 750 km from one end of the province to the other.
+The Long Way Cycling Series is Nova Scotia’s homegrown long-distance cycling series, born from a simple idea: why travel halfway around the world for an adventure when there’s plenty to be found right here?
 
-Somewhere along the way, an idea took hold: if we wanted this kind of adventure here, surely other people did too? And so, Tip 2 Tip was born.
+It all started back in 2020, when international races were off the calendar and ultra-endurance cycling events in Atlantic Canada were pretty much nonexistent. Three cyclists, soon to become friends, had the same, slightly unhinged idea: ride across Nova Scotia, Tip 2 Tip! From The Hawk Beach to Meat Cove, roughly 750 km from one end of the province to the other, with plenty of hills, headwinds, and questionable life choices along the way.
 
-What started as a simple idea between friends has since grown into <strong>The Long Way</strong>, a series of self-supported endurance cycling events that take riders across Nova Scotia and beyond. Different distances, different routes, different ways to get there, but the main idea is still the same: get on your bike, go somewhere, and see what happens along the way.
+And somewhere along the way, an idea took hold: if we wanted this kind of adventure here, surely other people did too? And so <strong>The Long Way Cycling Series</strong> was born, and is today a series of self-supported endurance cycling events that take riders across Nova Scotia and beyond. Different distances, different routes, different ways to get there, but the main idea is still the same: get on your bike, go somewhere, and see what happens along the way.
 
 ```{=html}
 <div class="race-cards">
@@ -71,4 +69,23 @@ What started as a simple idea between friends has since grown into <strong>The L
     </div>
   </a>
 </div>
+```
+
+```{=html}
+<section class="follow-us" aria-labelledby="follow-us-heading">
+  <img class="follow-us-logo" src="images/logos/longway-logo.jpg" alt="The Long Way Endurance Cycling Series" loading="lazy">
+  <div class="follow-us-content">
+    <h2 id="follow-us-heading">FOLLOW US</h2>
+    <div class="follow-us-links">
+    <a href="https://www.facebook.com/tip2tipns/">
+      <i class="bi bi-facebook" aria-hidden="true"></i>
+      <span>Facebook</span>
+    </a>
+    <a href="https://www.instagram.com/tip2tip_ns/">
+      <i class="bi bi-instagram" aria-hidden="true"></i>
+      <span>Instagram</span>
+    </a>
+    </div>
+  </div>
+</section>
 ```

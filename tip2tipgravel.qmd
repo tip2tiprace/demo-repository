@@ -2,6 +2,7 @@
 title: "The Hodge Podge"
 title-block-style: none
 page-layout: full
+body-classes: race-page
 ---
 
 ::: {.race-header .column-screen}
@@ -32,11 +33,11 @@ page-layout: full
       <h2>What to expect?</h2>
       <p>In The Hodge Podge, expect around 70% off-road, remote stretches, rough terrain, and a few well-placed checkpoints to resupply, where riders will have a chance to refuel and rest in some out-of-the-way places without losing the spirit of self-sufficiency.</p>
       <p>Ever heard of the Darién Gap in Nova Scotia? No? Well, you're going to ride through it. Throw in the Pipeline out of the city, bear country, a few river crossings, forgotten tracks, and some of the wilder corners of the province, and you've got a pretty good idea of what you're signing up for. And rail trails? We avoid those at all costs!</p>
-      <p>In true Hodge Podge fashion, it's a bit of everything thrown together. Some sections will be fast and fun, others might have you questioning your life choices, but put it all together and you've got something pretty special. Coming 2027!</p>
+      <p>In true Hodge Podge fashion, it's a bit of everything thrown together. Some sections will be fast and fun, others might have you questioning your life choices, but put it all together and you've got something pretty special.</p>
       <p><strong>THE ROUTE REVEAL IS COMING. FOLLOW US ON INSTAGRAM FOR UPDATES!</strong></p>
     </div>
     <div class="offroad-story-image">
-      <img src="images/hp_inset2.jpg" alt="Placeholder photograph from the cycling series" loading="lazy">
+      <img src="images/hp_insset3.jpg" alt="Placeholder photograph from the cycling series" loading="lazy">
     </div>
   </section>
 </div>
@@ -44,10 +45,12 @@ page-layout: full
 
 ***
 
-::: {.race-formats}
+::: {.race-formats .column-screen}
 ## When?
 
-**Early October 2027.** Exact dates will be announced.
+**September 25 – October 3, 2027.**
+
+[Registration for all races opens in January/February 2027.](register.qmd)
 
 **Always be prepared.** Nova Scotia's coastal weather can turn cold, wet and windy, even in summer. Hypothermia is a risk at any time of year. Carry warm layers and waterproof gear, check the forecast, and be ready for changing conditions.
 
@@ -56,14 +59,30 @@ page-layout: full
 There are two ways to take on The Hodge Podge. Go the full distance or share the adventure with a team.
 
 ::: {.race-format-grid}
-::: {.race-format-card}
-### Full Distance — Solo or Pairs
+::: {.race-format-card .race-format-full}
+### THE FULL SERVE
+
+::: {.race-format-label}
+Solo or pairs
+:::
+
+::: {.race-format-summary}
+Every kilometre. All yours.
+:::
 
 Take on the entire Hodge Podge route from start to finish. Ride solo or as a pair, tackling every kilometre, climb, and whatever else Nova Scotia throws your way.
 :::
 
-::: {.race-format-card}
-### Relay — Team Edition
+::: {.race-format-card .race-format-relay}
+### THE SHARING PLATE
+
+::: {.race-format-label}
+Relay team
+:::
+
+::: {.race-format-summary}
+One route. Your team. Split the adventure.
+:::
 
 Want to share the Hodge Podge? Gather a team and split the route however you like.
 
@@ -77,7 +96,7 @@ How you divide the distance is up to your team. Just make sure someone is always
 ***
 
 ```{=html}
-<div class="loco-register">
+<div class="loco-register column-screen">
   <div class="race-registration-logo registration-mystery">
     <span aria-hidden="true">?</span>
     <span class="race-card-label">The Hodge Podge</span>

@@ -1,6 +1,7 @@
 ---
 title: "The Nor'Easter"
 page-layout: full
+body-classes: race-page
 title-block-banner: false
 ---
 
@@ -32,6 +33,8 @@ More details coming as route planning continues. Follow us on Instagram for upda
 ## When?
 
 **Planned for 2028.** Exact dates will be announced.
+
+[Registration for all races opens in January/February 2027.](register.qmd)
 
 **Always be prepared.** Nova Scotia's coastal weather can turn cold, wet and windy, even in summer. Hypothermia is a risk at any time of year. Carry warm layers and waterproof gear, check the forecast, and be ready for changing conditions.
 

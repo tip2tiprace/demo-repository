@@ -3,7 +3,11 @@ project:
 
 website:
   title: ""
+  favicon: images/logos/longway-logo.jpg
   navbar:
+    logo: images/logos/longway-logo.jpg
+    logo-alt: "The Long Way home"
+    logo-href: index.qmd
     left:
       - href: index.qmd
         text: About

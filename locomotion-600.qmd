@@ -1,5 +1,6 @@
 ---
 page-layout: full
+body-classes: race-page
 title-block-banner: false
 ---
 
@@ -34,20 +35,33 @@ Ride it solo or as a pair. You have **2.5 days to get yourself around the route 
 
 **June 12–14.**
 
+[Registration for all races opens in January/February 2027.](register.qmd)
+
 **Always be prepared.** Nova Scotia's coastal weather can turn cold, wet and windy, even in summer. Hypothermia is a risk at any time of year. Carry warm layers and waterproof gear, check the forecast, and be ready for changing conditions.
 
 ***
+:::: {.race-route .column-screen}
+::: {.race-route-map}
+```{=html}
+<iframe src="https://www.followmychallenge.com/live/locomotion26/" title="LOCOmotion 600 2026 past-edition tracking map" loading="lazy" allowfullscreen></iframe>
+```
+
+**Past edition: LOCOmotion 2026.** This is not the upcoming race course.
+:::
+
+::: {.race-route-text}
 ## The Route
 
 The LOCOmotion follows a fixed route of approximately **650 km**, starting and finishing at the Halifax Citadel. Expect long days, changing weather, some gravel, a lot of Nova Scotia, and probably a few stories by the time you get back.
 
 
-There are **three checkpoints** along the route. Checkpoint 2 is volunteer-run and provides riders with a place to stop, rest and refuel.
+There are **three checkpoints** along the route. Checkpoint 2 is always volunteer-run and provides riders with a place to stop, rest and refuel.
 
 Expect some gravel. **28 mm tires are considered the minimum width** for this event. Having said that, your bike, your choice. 
 
 The route changes each year, is scouted each spring, and may undergo minor changes before the event. 
-
+:::
+::::
 
 ## Past Editions
 
@@ -64,7 +78,7 @@ Explore the tracking maps from previous editions of LOCOmotion 600.
 
 You don't need to have ridden hundreds of kilometres before, or even consider yourself an endurance cyclist, to take on LOCOmotion. Maybe this is your first big cycling challenge, maybe you're curious about how far you can go, or maybe you're an experienced ultra-racer looking to push the pace. Whatever brings you to the start line, LOCOmotion is about giving it a go, figuring things out along the way and seeing what you're capable of.
 
-There's no single right way to approach the LOCOmotion. Some riders will race each other, some the clock. Others will take a more measured approach, stopping for a proper meal or a few hours of sleep. Whatever your strategy, the challenge is the same: get yourself and your bike back to Halifax. 
+There's no single right way to approach the LOCOmotion. Some riders will race each other, some the clock. Others will take a more measured approach, stopping for a proper meal or a few hours of sleep. Whatever your strategy, the challenge is the same: get yourself and your bike back to Halifax as fast as you can.
 
 There will be moments when you wonder why you signed
 up. Probably somewhere in the middle of the night,

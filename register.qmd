@@ -17,9 +17,9 @@ page-layout: full
 ::: {.registration-page}
 ## Ready to Ride a Long Way?
 
-Race registration will go live when early-bird entries open.
+**Registration for all races opens in January/February 2027.**
 
-We'll announce registration dates, entry fees and race details here ahead of each event. Check back for updates.
+We'll announce the exact registration opening dates, entry fees and race details here. Check back for updates.
 
 ## Race Calendar
 
@@ -28,11 +28,11 @@ Plan your next long way with the race dates announced so far.
 | Race | When? |
 |:-----|:------|
 | [LOCOmotion 600](locomotion-600.qmd) | **June 12–14** |
-| [Tip 2 Tip](tip2tiprace.qmd) | **August** — exact dates to be announced |
-| [The Hodge Podge](tip2tipgravel.qmd) | **Early October 2027** — exact dates to be announced |
+| [Tip 2 Tip](tip2tiprace.qmd) | **August 28 – September 2, 2027** |
+| [The Hodge Podge](tip2tipgravel.qmd) | **September 25 – October 3, 2027** |
 | [The Nor'Easter](noreaster-race.qmd) | **Planned for 2028** — exact dates to be announced |
 
-These are race dates, not registration opening dates. Entry opening dates will be announced separately.
+These are race dates, not registration opening dates. Registration opens in January/February 2027; exact opening dates will be announced.
 
 ## Explore the Races
 

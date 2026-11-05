@@ -1,9 +1,10 @@
 ---
 page-layout: full
+body-classes: race-page
 title-block-banner: false
 ---
 
-::: {.race-header}
+::: {.race-header .column-screen}
 ![](images/tip2tip-hero.jpg)
 
 <div class="fkt-hero-content">
