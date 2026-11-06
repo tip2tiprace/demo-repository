@@ -5,17 +5,20 @@ body-classes: alumni-page
 
 # LOCOmotion 600 Alumni
 
-The riders who took the long way around Nova Scotia. Explore results from past editions of LOCOmotion 600.
+The riders who went LOCO. Explore results from past editions of LOCOmotion 600.
 
 [Back to LOCOmotion 600](locomotion-600.qmd#past-editions)
 
 **Browse by year:** [2026](#edition-2026) · [2025](#edition-2025) · [2024](#edition-2024) · [2023](#edition-2023) · [2022](#edition-2022)
-
-Times and category placings are shown as supplied. **DNF** means did not finish, **DNS** means did not start, and **DSQ** means disqualified. A recorded time does not override a rider's status; a dash means no result time was supplied.
-
 ***
 
 ## 2026 {#edition-2026}
+
+::: {layout-ncol=2}
+![Kajsa Holland-Goon — 2026 female winner](images/locowinner_w.JPG){fig-alt="Kajsa Holland-Goon, female winner of LOCOmotion 600 in 2026"}
+
+![Stephen Paterson — 2026 male winner](images/loco-hero.jpg){fig-alt="Stephen Paterson, male winner of LOCOmotion 600 in 2026"}
+:::
 
 ### Solo
 
