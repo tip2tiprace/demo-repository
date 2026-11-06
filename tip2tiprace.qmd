@@ -2,6 +2,9 @@
 page-layout: full
 body-classes: race-page
 title-block-banner: false
+lightbox: true
+filters:
+  - filters/folder-gallery.lua
 ---
 
 ::: {.race-header .column-screen}
@@ -18,6 +21,9 @@ title-block-banner: false
 </div>
 
 :::
+
+:::: {.offroad-story}
+::: {.offroad-story-text}
 
   <p>
     Start at <strong>The Hawk Beach</strong>, with the Atlantic
@@ -40,8 +46,6 @@ title-block-banner: false
 
   </p>
 
-***
-
 ## When?
 
 **August 28 – September 2, 2027.**
@@ -49,6 +53,15 @@ title-block-banner: false
 [Registration for all races opens in January/February 2027.](register.qmd)
 
 **Always be prepared.** Nova Scotia's coastal weather can turn cold, wet and windy, even in summer. Hypothermia is a risk at any time of year. Carry warm layers and waterproof gear, check the forecast, and be ready for changing conditions.
+
+:::
+
+::: {.offroad-story-text}
+![](images/t2t_inset_1.jpg){fig-alt="A cyclist with a loaded bike beside the Meat Cove Camping sign" loading="lazy"}
+:::
+::::
+
+***
 
 :::: {.race-route .column-screen}
 ::: {.race-route-map}
@@ -83,7 +96,11 @@ Different checkpoints, different adventures. Explore the past editions and see h
 
 Meet the riders from previous editions and explore their results.
 
-[View Tip 2 Tip alumni and results →](alumni.qmd)
+[View Tip 2 Tip alumni and results →](alumni.qmd)\
+
+::: {.folder-gallery data-folder="images/tip2tip_gallery"}
+:::
+
 
 ***
 

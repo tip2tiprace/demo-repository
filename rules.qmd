@@ -1,6 +1,6 @@
 ---
 title: The Rules
-title-block-style: none
+title-block-banner: false
 page-layout: full
 ---
 

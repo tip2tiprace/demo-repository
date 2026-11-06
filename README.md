@@ -8,3 +8,19 @@
 3. run > quarto render
 4. push your changes in GitHub, configure you GitHub username and email in the terminal if nedded 
 6. run > quarto publish gh-pages
+
+## Tip 2 Tip photo gallery
+
+Add photos directly to [images/tip2tip_gallery](images/tip2tip_gallery).
+The [Tip 2 Tip race page](tip2tiprace.qmd) automatically includes all JPG,
+JPEG, PNG, WebP, GIF and AVIF images in that folder when you run `quarto render`.
+Subfolders and other file types are not included. Convert HEIC photos to JPG
+or WebP first.
+
+Photos appear in filename order. Use prefixes such as `01-start.jpg` and
+`02-on-the-road.jpg` to choose their order; descriptive filenames also supply
+the image alternative text. Visitors can scroll the strip sideways or focus
+it and use the arrow keys, and select a photo to open the full-size lightbox.
+An empty folder displays "Race photos coming soon."
+
+After adding, removing or renaming photos, render and publish the site again.

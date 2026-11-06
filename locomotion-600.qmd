@@ -5,7 +5,7 @@ title-block-banner: false
 ---
 
 
-::: {.race-header}
+::: {.race-header .column-screen}
 ![](images/loco-hero.jpg)
 
 <div class="fkt-hero-content">
@@ -33,7 +33,7 @@ Ride it solo or as a pair. You have **2.5 days to get yourself around the route 
 
 ## When?
 
-**June 12–14.**
+**June 12–14, 2027.**
 
 [Registration for all races opens in January/February 2027.](register.qmd)
 
@@ -120,7 +120,7 @@ you'll leave with stories, new friends and maybe even a reason to do it all agai
 </div>
 ```
 
-::: {.race-header}
+::: {.race-header .column-screen}
 ![](images/loco-sub-1.jpg)
 :::
 

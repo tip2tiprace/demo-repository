@@ -121,7 +121,7 @@ You **cannot draft** behind the support vehicle or another rider.
 
 ***
 
-::: {.brown-section}
+::: {.blue-section}
 ## Rules for an FKT Effort
 
 * **Minimum distance is 747 km.** Any detour must be the same length as, or longer than, the original route.

@@ -1,1 +1,39 @@
-The merch store is closed! 
+---
+title: "Merch"
+page-layout: full
+body-classes: race-page
+title-block-banner: false
+---
+
+::: {.race-header .column-screen}
+![](images/merch_store_hero.jpg){fig-alt="Riders taking a break beside their loaded bikes outside a store"}
+
+<div class="fkt-hero-content">
+<div class="fkt-kicker">The Long Way</div>
+<h1>Merch</h1>
+</div>
+
+:::
+
+## Take a Little of the Long Way With You
+
+Long rides have a way of sticking with you. The Long Way merch is another way to
+keep those adventures close, even on the days you're not out riding.
+
+Whether you've ridden one of our events, cheered someone across the finish
+line or dreaming about your next long-distance ride, you're part
+of the Long Way community. 
+
+## The Store Is Currently Closed
+
+**We're not taking merch orders at the moment.**
+
+Check back here for future store updates. When merch is available, this page
+will have the details on what's on offer and how to order.
+
+In the meantime, follow along for race stories, photos and announcements:
+
+::: {.race-resources}
+[Instagram](https://www.instagram.com/tip2tip_ns/) [Facebook](https://www.facebook.com/tip2tipns/)
+:::
+

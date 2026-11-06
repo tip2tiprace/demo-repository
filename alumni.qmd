@@ -1,5 +1,6 @@
 ---
 title: "Tip 2 Tip Alumni"
+body-classes: alumni-page
 ---
 
 # Tip 2 Tip Alumni

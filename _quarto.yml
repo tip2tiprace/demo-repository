@@ -46,6 +46,8 @@ website:
         text: Register
       - href: shop.qmd
         text: Merch
+      - href: Supporters.qmd
+        text: Supporters
     right:
       - icon: instagram
         href: https://www.instagram.com/tip2tip_ns/

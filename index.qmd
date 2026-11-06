@@ -70,7 +70,6 @@ And somewhere along the way, an idea took hold: if we wanted this kind of advent
   </a>
 </div>
 ```
-
 ```{=html}
 <section class="follow-us" aria-labelledby="follow-us-heading">
   <img class="follow-us-logo" src="images/logos/longway-logo.jpg" alt="The Long Way Endurance Cycling Series" loading="lazy">
