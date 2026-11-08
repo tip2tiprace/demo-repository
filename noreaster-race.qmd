@@ -22,7 +22,7 @@ title-block-banner: false
 
 ## A NEW EASTBOUND CHALLENGE
 
-The Nor'Easter, the next race in The Long Way series, is in development for **2028**.
+The Nor'Easter, the next race in The Long Way Endurance Cycling Series, is in development for **2028**.
 
 The concept is simple: start in **Montreal**, finish in **Halifax**, and manage yourself the whole way.
 
