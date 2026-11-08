@@ -2,6 +2,8 @@
 page-layout: full
 body-classes: race-page
 title-block-banner: false
+filters:
+  - filters/folder-gallery.lua
 ---
 
 
@@ -9,7 +11,7 @@ title-block-banner: false
 ![](images/loco-hero.jpg)
 
 <div class="fkt-hero-content">
-<div class="fkt-kicker">The Long Way</div>
+<img class="fkt-series-logo" src="images/logos/the_long_way_logo_transparent.svg" alt="The Long Way Endurance Cycling Series">
 
 <h1>LOCOmotion 600</h1>
 
@@ -29,7 +31,7 @@ LOCOmotion has become a bit of **Nova Scotia cycling legend**. Every year, rider
 
 It's challenging, but it's also designed to be approachable. The LOCOmotion is a great introduction to **self-supported endurance riding**: long enough to test your legs, planning and resilience, while keeping you relatively close to civilization and the next place to find food, water or somewhere to sleep.
 
-Ride it solo or as a pair. You have **2.5 days to get yourself around the route and back to Halifax.**
+You have **2.5 days to get yourself around the route and back to Halifax.**
 
 ## When?
 
@@ -37,7 +39,31 @@ Ride it solo or as a pair. You have **2.5 days to get yourself around the route 
 
 [Registration for all races opens in January/February 2027.](register.qmd)
 
-**Always be prepared.** Nova Scotia's coastal weather can turn cold, wet and windy, even in summer. Hypothermia is a risk at any time of year. Carry warm layers and waterproof gear, check the forecast, and be ready for changing conditions.
+::: {.race-formats .column-screen}
+## Race Formats
+
+Ride solo or as a pair. Either way, take on the full fixed route and make the ride your own.
+
+::: {.race-format-grid}
+::: {.race-format-card .race-format-full}
+### SOLO
+
+::: {.race-format-summary}
+:::
+
+Take on the LOCOmotion at your own pace, making the route, rest and resupply decisions yourself.
+:::
+
+::: {.race-format-card .race-format-pairs}
+### PAIRS
+
+::: {.race-format-summary}
+:::
+
+Ride as a pair, work together, and draft one another as you tackle the route.
+:::
+:::
+:::
 
 ***
 :::: {.race-route .column-screen}
@@ -63,6 +89,7 @@ The route changes each year, is scouted each spring, and may undergo minor chang
 :::
 ::::
 
+::: {.blue-section}
 ## Past Editions
 
 Explore the tracking maps from previous editions of LOCOmotion 600.
@@ -72,11 +99,22 @@ Explore the tracking maps from previous editions of LOCOmotion 600.
 - **2024** — [View the race tracking map](https://www.followmychallenge.com/live/locomotion24).
 - **2023** — [View the race tracking map](https://www.followmychallenge.com/live/locomotion/).
 - **2022** — [View the race tracking map](https://www.followmychallenge.com/live/locomotion600/).
+:::
+
+## The Riders Who Took the Long Way
+
+Meet the riders from previous editions and explore their results.
+
+[View LOCOmotion 600 alumni and results →](alumni-locomotion.qmd)\
+
+::: {.folder-gallery data-folder="images/loco_gallery"}
+:::
+
 
 ***
 ## THINKING ABOUT RIDING?
 
-You don't need to have ridden hundreds of kilometres before, or even consider yourself an endurance cyclist, to take on LOCOmotion. Maybe this is your first big cycling challenge, maybe you're curious about how far you can go, or maybe you're an experienced ultra-racer looking to push the pace. Whatever brings you to the start line, LOCOmotion is about giving it a go, figuring things out along the way and seeing what you're capable of.
+You don't need to have ridden hundreds of kilometres before, or even consider yourself an endurance cyclist, to take on the LOCOmotion 600. Maybe this is your first big cycling challenge, maybe you're curious about how far you can go, or maybe you're an experienced ultra-racer looking to push the pace. Whatever brings you to the start line, LOCOmotion is about giving it a go, figuring things out along the way and seeing what you're capable of.
 
 There's no single right way to approach the LOCOmotion. Some riders will race each other, some the clock. Others will take a more measured approach, stopping for a proper meal or a few hours of sleep. Whatever your strategy, the challenge is the same: get yourself and your bike back to Halifax as fast as you can.
 

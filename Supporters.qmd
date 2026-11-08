@@ -9,7 +9,7 @@ title-block-banner: false
 ![](images/supporters-hero.jpg)
 
 <div class="fkt-hero-content">
-<div class="fkt-kicker">The Long Way</div>
+<img class="fkt-series-logo" src="images/logos/the_long_way_logo_transparent.svg" alt="The Long Way Endurance Cycling Series">
 <h1>Supporters</h1>
 </div>
 
@@ -31,7 +31,7 @@ how we could work together.
 **Send us a message on Instagram or Facebook:**
 
 ::: {.race-resources}
-[Contact us on Instagram](https://www.instagram.com/tip2tip_ns/) [Contact us on Facebook](https://www.facebook.com/tip2tipns/)
+[Contact us on Instagram](https://www.instagram.com/thelongwayseries_ns/) [Contact us on Facebook](https://www.facebook.com/tip2tipns/)
 :::
 
 ## Past Supporters

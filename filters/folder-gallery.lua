@@ -22,7 +22,7 @@ function Div(div)
     if extension and image_extensions[extension:lower()] then
       local caption = name:gsub("%.[^%.]+$", ""):gsub("[_%-]+", " ")
       local image = pandoc.Image(
-        {pandoc.Str("Tip 2 Tip: " .. caption)},
+        {pandoc.Str("Race photo: " .. caption)},
         folder .. "/" .. name,
         "",
         pandoc.Attr("", {"lightbox"}, {
@@ -44,7 +44,7 @@ function Div(div)
 
   return pandoc.Div(photos, pandoc.Attr("", {"race-photo-strip"}, {
     role = "region",
-    ["aria-label"] = "Tip 2 Tip photo gallery. Scroll sideways to browse photos.",
+    ["aria-label"] = "Race photo gallery. Scroll sideways to browse photos.",
     tabindex = "0"
   }))
 end

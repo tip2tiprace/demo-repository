@@ -11,7 +11,7 @@ filters:
 ![](images/tip2tip-hero.jpg)
 
 <div class="fkt-hero-content">
-<div class="fkt-kicker">The Long Way</div>
+<img class="fkt-series-logo" src="images/logos/the_long_way_logo_transparent.svg" alt="The Long Way Endurance Cycling Series">
 <h1>Tip 2 Tip</h1>
 <div class="fkt-hero-stats">
 <span><strong>1,000–1,200</strong> KM</span>
@@ -33,7 +33,7 @@ filters:
   </p>
 
   <p>
-    Ride solo or as a pair. Carry what you need. Find food,
+    Carry what you need. Find food,
     water and somewhere to sleep along the way. No support
     vehicles. No private supply drops. Just you, your bike,
     five days and a very long way north.
@@ -52,14 +52,40 @@ filters:
 
 [Registration for all races opens in January/February 2027.](register.qmd)
 
-**Always be prepared.** Nova Scotia's coastal weather can turn cold, wet and windy, even in summer. Hypothermia is a risk at any time of year. Carry warm layers and waterproof gear, check the forecast, and be ready for changing conditions.
-
 :::
 
 ::: {.offroad-story-text}
 ![](images/t2t_inset_1.jpg){fig-alt="A cyclist with a loaded bike beside the Meat Cove Camping sign" loading="lazy"}
 :::
 ::::
+
+::: {.race-formats .column-screen}
+## Race Formats
+
+Take on the full Tip 2 Tip route solo or as a pair. Choose your checkpoints and make your own way across Nova Scotia.
+
+::: {.race-format-grid}
+::: {.race-format-card .race-format-full}
+### SOLO
+
+::: {.race-format-summary}
+Your route. Your ride.
+:::
+
+Ride independently, choosing how to connect the checkpoints and when to stop along the way.
+:::
+
+::: {.race-format-card .race-format-pairs}
+### PAIRS
+
+::: {.race-format-summary}
+Two riders. One shared adventure.
+:::
+
+Work together, draft one another, and decide as a team how to connect the checkpoints and manage the ride.
+:::
+:::
+:::
 
 ***
 
@@ -81,6 +107,7 @@ Checkpoints change between editions; use the information provided for your race 
 :::
 ::::
 
+::: {.blue-section}
 ## Past Editions
 
 Different checkpoints, different adventures. Explore the past editions and see how the race has evolved.
@@ -91,6 +118,7 @@ Different checkpoints, different adventures. Explore the past editions and see h
 - **2023** — [View the race tracker](https://www.followmychallenge.com/live/tip2tipns23/).
 - **2022** — [View the race tracker](https://www.followmychallenge.com/live/tip2tipns22/).
 - **2021** — August 27 – September 1.
+:::
 
 ## The Riders Who Took the Long Way
 
