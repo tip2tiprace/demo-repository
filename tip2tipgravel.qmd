@@ -11,9 +11,8 @@ body-classes: race-page
 <div class="fkt-hero-content">
 <img class="fkt-series-logo" src="images/logos/the_long_way_logo_transparent.svg" alt="The Long Way Endurance Cycling Series">
 <h1>The Hodge Podge</h1>
-<div class="fkt-hero-stats">
-<span><strong>A NOVA SCOTIA</strong></span>
-<span><strong>GRAVEL ADVENTURE</strong></span>
+<p class="fkt-hero-tagline">A Nova Scotia gravel adventure</p>
+<div class="fkt-hero-stats fkt-hero-stats-compact">
 <span><strong>SELF-SUPPORTED</strong></span>
 </div>
 </div>

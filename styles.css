@@ -452,10 +452,22 @@ main#quarto-document-content section.page-columns {
   letter-spacing: 0.08em;
 }
 
+.fkt-hero-tagline {
+  margin: 0 0 1.25rem;
+  font-size: clamp(1.1rem, 2vw, 1.6rem);
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
+
 .fkt-hero-stats strong {
   font-size: clamp(1.2rem, 2.5vw, 2.3rem);
   font-weight: 900;
   letter-spacing: -0.04em;
+}
+
+.fkt-hero-stats-compact strong {
+  font-size: 0.9rem;
+  letter-spacing: 0.12em;
 }
 
 /* MOBILE */
