@@ -107,6 +107,10 @@ main#quarto-document-content section.page-columns {
   object-position: center;
 }
 
+.race-header img.hero-image-flipped {
+  transform: scaleX(-1);
+}
+
 .race-header.column-screen {
   width: 100%;
   max-width: 100%;
@@ -391,6 +395,17 @@ main#quarto-document-content section.page-columns {
   color: white;
 }
 
+.race-header .fkt-series-logo {
+  position: static;
+  display: block;
+  z-index: auto;
+  width: clamp(9rem, 20vw, 18rem);
+  max-width: 100%;
+  height: auto;
+  object-fit: contain;
+  margin: 0 0 1rem;
+}
+
 .fkt-kicker {
   font-size: 0.9rem;
   font-weight: 700;
@@ -464,6 +479,11 @@ main#quarto-document-content section.page-columns {
     width: clamp(12rem, 68vw, 20rem);
     max-height: 48svh;
     margin: 0 auto;
+  }
+
+  .race-header .fkt-series-logo {
+    width: clamp(8rem, 42vw, 13rem);
+    margin: 0 auto 1rem;
   }
 
   .race-header h1 {
@@ -761,13 +781,9 @@ main#quarto-document-content section.page-columns {
 }
 
 .race-formats {
-  width: 100%;
-  max-width: none;
-  margin: 0 auto 5rem;
-  padding: 0 1.5rem;
+  margin-bottom: 5rem;
 }
 
-.race-formats.column-screen,
 .loco-register.column-screen {
   width: 100%;
   max-width: none;
@@ -798,7 +814,8 @@ main#quarto-document-content section.page-columns {
   border-color: #222;
 }
 
-.race-format-relay {
+.race-format-relay,
+.race-format-pairs {
   background: #f3eee4;
   color: #222;
   border-color: #d7cebe;
