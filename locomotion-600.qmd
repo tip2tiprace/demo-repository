@@ -67,6 +67,8 @@ Ride as a pair, work together, and draft one another as you tackle the route.
 
 ***
 :::: {.race-route .column-screen}
+<h2 class="race-route-title">The Route</h2>
+
 ::: {.race-route-map}
 ```{=html}
 <iframe src="https://www.followmychallenge.com/live/locomotion26/" title="LOCOmotion 600 2026 past-edition tracking map" loading="lazy" allowfullscreen></iframe>
@@ -76,8 +78,6 @@ Ride as a pair, work together, and draft one another as you tackle the route.
 :::
 
 ::: {.race-route-text}
-## The Route
-
 The LOCOmotion follows a fixed route of approximately **650 km**, starting and finishing at the Halifax Citadel. Expect long days, changing weather, some gravel, a lot of Nova Scotia, and probably a few stories by the time you get back.
 
 

@@ -90,6 +90,8 @@ Work together, draft one another, and decide as a team how to connect the checkp
 ***
 
 :::: {.race-route .column-screen}
+<h2 class="race-route-title">The Route</h2>
+
 ::: {.race-route-map}
 ```{=html}
 <iframe src="https://www.followmychallenge.com/live/tip2tipns25/" title="Tip 2 Tip 2025 past-edition tracking map" loading="lazy" allowfullscreen></iframe>
@@ -99,11 +101,9 @@ Work together, draft one another, and decide as a team how to connect the checkp
 :::
 
 ::: {.race-route-text}
-## The Route
-
 There is **no prescribed route**. Riders are given a series of checkpoints scattered across the province and choose how to connect them. The shortest route isn't always the fastest, and the best idea at noon can look considerably worse at 2 a.m.
 
-Checkpoints change between editions; use the information provided for your race when planning your ride.
+Checkpoints change between editions;. Please use the information provided for your race when planning your ride.
 :::
 ::::
 

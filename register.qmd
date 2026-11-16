@@ -32,8 +32,6 @@ Plan your next long way with the race dates announced so far.
 | [The Hodge Podge](tip2tipgravel.qmd) | **September 25 – October 3, 2027** |
 | [The Nor'Easter](noreaster-race.qmd) | **Planned for 2028** — exact dates to be announced |
 
-These are race dates, not registration opening dates. Registration opens in January/February 2027; exact opening dates will be announced.
-
 ## Explore the Races
 
 <nav class="registration-races" aria-label="Explore the races">
