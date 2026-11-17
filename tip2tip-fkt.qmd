@@ -105,19 +105,27 @@ There is a **HUGE difference** between the two. Whichever category you choose, y
 
 If you're unclear about what counts as self-supported or supported, don't hesitate to reach out with questions before your attempt.
 
-#### Self-Supported
+::: {.race-format-grid .fkt-category-grid}
+::: {.race-format-card .fkt-category-self-supported}
+### Self-Supported
 
+::: {.race-format-summary}
 Do it all yourself!
+:::
 
 There is **no outside assistance**. No support vehicles or people meeting you along the way. Get from A to B carrying your own gear and using services that are equally available to everyone.
 
 No drafting behind another rider or vehicle.
+:::
 
-#### Supported
+::: {.race-format-card .fkt-category-supported}
+### Supported
 
 A support vehicle and other outside assistance are allowed. Food, water, and supply drops are all OK.
 
 You **cannot draft** behind the support vehicle or another rider.
+:::
+:::
 
 ***
 
