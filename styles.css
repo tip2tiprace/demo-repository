@@ -21,6 +21,14 @@ main#quarto-document-content {
   min-width: 0;
   margin-top: 0 !important;
   padding-top: 0 !important;
+  font-size: 1.25rem;
+  line-height: 1.65;
+}
+
+@media (max-width: 700px) {
+  main#quarto-document-content {
+    font-size: 1.125rem;
+  }
 }
 
 main#quarto-document-content > p,
@@ -37,7 +45,7 @@ main#quarto-document-content section.level2 > ul {
   padding-right: 1.5rem;
 }
 
-main#quarto-document-content :is(.loco-register, .race-route, .race-formats, .registration-page, .records, .race-cards, .follow-us, .offroad-story) {
+main#quarto-document-content :is(.loco-register, .race-route, .race-formats, .registration-page, .records, .race-cards, .follow-us, .land-acknowledgement, .offroad-story) {
   width: calc(100% - 3rem);
   max-width: 1152px;
   margin-left: auto;
@@ -52,6 +60,182 @@ main#quarto-document-content :is(.race-route, .race-formats, .registration-page,
 main#quarto-document-content :is(.race-formats, .registration-page, .offroad-story-text, .race-route-text) section.level2 > :is(p, h2, ul) {
   padding-left: 0;
   padding-right: 0;
+}
+
+.supporter-founder,
+.past-supporters {
+  width: calc(100% - 3rem);
+  max-width: 1152px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.supporter-founder {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  align-items: stretch;
+  gap: clamp(2rem, 5vw, 4rem);
+  margin-top: 4rem;
+  margin-bottom: 5rem;
+}
+
+.supporter-founder h2,
+.supporter-story h2,
+.past-supporters h2 {
+  margin: 0 0 1.25rem;
+  font-size: clamp(2.25rem, 5vw, 4rem);
+  font-weight: 900;
+  line-height: 1;
+  letter-spacing: -0.05em;
+}
+
+.supporter-founder-text p:not(.supporter-eyebrow) {
+  line-height: 1.7;
+}
+
+.supporter-founder-text {
+  align-self: center;
+}
+
+.supporter-founder-image {
+  display: block;
+  width: 100%;
+  height: 100%;
+  min-height: 26rem;
+  object-fit: cover;
+  object-position: center;
+}
+
+.supporter-support.blue-section {
+  margin: 4rem 0 6rem;
+  padding: clamp(3rem, 7vw, 6rem) 1.5rem;
+  text-align: center;
+}
+
+.supporter-support h2,
+.supporter-support > p {
+  width: 100%;
+  max-width: 820px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.supporter-support h2 {
+  margin-top: 0;
+  font-size: clamp(2.25rem, 5vw, 4rem);
+  font-weight: 900;
+  line-height: 1;
+  letter-spacing: -0.05em;
+}
+
+.supporter-support > p {
+  line-height: 1.7;
+}
+
+.supporter-support .supporter-link {
+  border-color: #fff;
+  color: #fff;
+}
+
+.supporter-support .supporter-link:hover {
+  background: #fff;
+  color: #222;
+}
+
+.supporter-links {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.75rem;
+  margin-top: 1.5rem;
+}
+
+.supporter-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 3rem;
+  padding: 0.75rem 1.25rem;
+  border: 1px solid #222;
+  color: #222;
+  font-size: 0.8rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.supporter-link:hover {
+  background: #222;
+  color: #fff;
+  text-decoration: none;
+}
+
+.supporter-photo-placeholder {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 26rem;
+  background:
+    linear-gradient(135deg, rgba(255, 255, 255, 0.08), rgba(0, 0, 0, 0.05)),
+    #d9d3c8;
+  border: 1px solid #c9c1b3;
+  color: #736b5f;
+  font-size: 0.75rem;
+  font-weight: 800;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+}
+
+.past-supporters {
+  margin-bottom: 5rem;
+  text-align: center;
+}
+
+.past-supporter-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0;
+  margin-top: 2.5rem;
+  border-top: 1px solid #ddd;
+  border-left: 1px solid #ddd;
+  text-align: left;
+}
+
+.past-supporter-grid ul {
+  display: contents;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.past-supporter-grid li {
+  min-height: 7rem;
+  padding: 1.5rem;
+  border-right: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  line-height: 1.55;
+}
+
+@media (max-width: 700px) {
+  .supporter-founder,
+  .past-supporters {
+    width: calc(100% - 3rem);
+  }
+
+  .supporter-founder {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .supporter-founder-image {
+    height: auto;
+    min-height: 0;
+    aspect-ratio: 4 / 3;
+  }
+
+  .past-supporter-grid {
+    grid-template-columns: 1fr;
+  }
 }
 
 main#quarto-document-content section.page-columns {
@@ -231,6 +415,60 @@ main#quarto-document-content section.page-columns {
   }
 }
 
+.land-acknowledgement {
+  display: grid;
+  grid-template-columns: 0.65rem minmax(0, 1fr);
+  gap: clamp(1.25rem, 3vw, 2.5rem);
+  margin: 0 auto 5rem;
+  padding: clamp(2rem, 5vw, 4rem);
+  background: #f3eee4;
+  border: 1px solid #ded6c6;
+}
+
+.land-acknowledgement-mark {
+  width: 100%;
+  min-height: 100%;
+  background: #8a6d4b;
+}
+
+.land-acknowledgement-content {
+  max-width: 820px;
+}
+
+.land-acknowledgement-label {
+  margin: 0 0 0.75rem;
+  font-size: 0.75rem;
+  font-weight: 800;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: #6b573f;
+}
+
+.land-acknowledgement h2 {
+  margin: 0 0 1.25rem;
+  font-size: clamp(2.25rem, 5vw, 4rem);
+  font-weight: 900;
+  letter-spacing: -0.05em;
+  line-height: 1;
+}
+
+.land-acknowledgement-content > p:not(.land-acknowledgement-label):not(.land-acknowledgement-treaty) {
+  margin: 0 0 1rem;
+  line-height: 1.65;
+}
+
+.land-acknowledgement-treaty {
+  margin: 1.5rem 0 0;
+  font-size: clamp(1.15rem, 2vw, 1.35rem);
+}
+
+@media (max-width: 700px) {
+  .land-acknowledgement {
+    grid-template-columns: 0.35rem minmax(0, 1fr);
+    padding: 1.5rem 1.25rem;
+  }
+}
+
 /* RACE CARDS */
 
 .race-cards {
@@ -282,7 +520,6 @@ main#quarto-document-content section.page-columns {
 
 .race-card-secret .race-card-link {
   opacity: 0.6;
-  font-style: italic;
 }
 
 /* Triple Crown teaser */
@@ -761,6 +998,7 @@ main#quarto-document-content section.page-columns {
 .race-route {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
+  grid-template-rows: auto 1fr;
   grid-template-areas:
     "map title"
     "map text";
@@ -769,12 +1007,14 @@ main#quarto-document-content section.page-columns {
   max-width: none;
   padding: 0 1.5rem;
   margin: 3rem auto;
-  gap: clamp(2rem, 4vw, 4rem);
+  column-gap: clamp(2rem, 4vw, 4rem);
+  row-gap: 0.75rem;
 }
 
 .race-route-title {
   grid-area: title;
   margin-top: 0;
+  margin-bottom: 0;
 }
 
 .race-route-map {
@@ -784,6 +1024,10 @@ main#quarto-document-content section.page-columns {
 .race-route-text {
   grid-area: text;
   min-width: 0;
+}
+
+.race-route-text p {
+  margin-top: 0;
 }
 
 .race-route-map iframe {
@@ -797,6 +1041,7 @@ main#quarto-document-content section.page-columns {
 @media (max-width: 700px) {
   .race-route {
     grid-template-columns: minmax(0, 1fr);
+    grid-template-rows: auto;
     grid-template-areas:
       "title"
       "map"
@@ -806,6 +1051,86 @@ main#quarto-document-content section.page-columns {
 
 .race-formats {
   margin-bottom: 5rem;
+}
+
+.pocoloco-section {
+  width: calc(100% - 3rem);
+  max-width: 1152px;
+  display: grid;
+  grid-template-columns: clamp(12rem, 28%, 18rem) minmax(0, 1fr);
+  align-items: center;
+  gap: clamp(2rem, 5vw, 4rem);
+  margin: 4rem auto 5rem;
+  padding: clamp(2rem, 5vw, 4rem);
+  background: #222;
+  color: #fff;
+  border: 1px solid #222;
+}
+
+.pocoloco-distance {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  aspect-ratio: 1;
+  border: 1px solid rgba(255, 255, 255, 0.35);
+  border-radius: 50%;
+  text-align: center;
+}
+
+.pocoloco-distance strong {
+  font-size: clamp(3.5rem, 7vw, 6.5rem);
+  font-weight: 900;
+  line-height: 0.85;
+  letter-spacing: -0.08em;
+}
+
+.pocoloco-distance span {
+  margin-top: 0.75rem;
+  font-size: 0.9rem;
+  font-weight: 800;
+  letter-spacing: 0.18em;
+}
+
+.pocoloco-kicker {
+  margin: 0 0 0.5rem;
+  color: #d7cebe;
+  font-size: 0.8rem;
+  font-weight: 800;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+}
+
+.pocoloco-section h2 {
+  margin: 0 0 1.25rem;
+  color: #fff;
+  font-size: clamp(2.25rem, 5vw, 4.5rem);
+  font-weight: 900;
+  line-height: 0.95;
+  letter-spacing: -0.05em;
+}
+
+.pocoloco-content > p:not(.pocoloco-kicker) {
+  max-width: 720px;
+  line-height: 1.65;
+}
+
+.pocoloco-content > p:last-child {
+  margin: 1.25rem 0 0;
+  font-size: clamp(1.05rem, 2vw, 1.25rem);
+}
+
+@media (max-width: 700px) {
+  .pocoloco-section {
+    grid-template-columns: minmax(0, 1fr);
+    width: calc(100% - 3rem);
+    text-align: center;
+  }
+
+  .pocoloco-distance {
+    width: min(11rem, 60%);
+    margin: 0 auto;
+  }
 }
 
 .loco-register.column-screen {
@@ -900,6 +1225,51 @@ main#quarto-document-content section.page-columns {
   letter-spacing: -0.04em;
 }
 
+.registration-updates {
+  max-width: 760px;
+  margin: 3rem auto 4rem;
+  padding: clamp(1.5rem, 4vw, 3rem);
+  background: #f3eee4;
+  border: 1px solid #d7cebe;
+}
+
+.registration-updates h3 {
+  margin: 0 0 0.75rem;
+  font-size: clamp(1.5rem, 3vw, 2.25rem);
+  font-weight: 900;
+  letter-spacing: -0.04em;
+}
+
+.registration-updates p {
+  max-width: 38rem;
+  margin: 0 auto 1.25rem;
+  line-height: 1.6;
+}
+
+.registration-signup-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 3rem;
+  padding: 0.75rem 1.5rem;
+  border: 0;
+  background: #222;
+  color: #fff;
+  font: inherit;
+  font-weight: 800;
+  cursor: pointer;
+  transition: background 0.2s ease;
+}
+
+.registration-signup-button:hover {
+  background: #444;
+}
+
+.registration-signup-button:focus-visible {
+  outline: 3px solid #625834;
+  outline-offset: 3px;
+}
+
 .registration-races {
   display: grid;
   grid-template-columns: repeat(4, minmax(0, 1fr));
@@ -939,6 +1309,7 @@ main#quarto-document-content section.page-columns {
     grid-template-columns: repeat(2, minmax(0, 1fr));
     gap: 1.5rem;
   }
+
 }
 
 .race-photo-strip {
