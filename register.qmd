@@ -20,7 +20,11 @@ body-classes: updates-popup-page
 
 **Registration for all races opens in January/February 2027.**
 
-We'll announce the exact registration opening dates, entry fees and race details here. Check back for updates.
+<section class="registration-updates" aria-labelledby="series-updates-heading">
+  <h3 id="series-updates-heading">Stay Updated (and hydrated)</h3>
+  <button class="registration-signup-button" type="button" data-tally-open="KpVzl7" data-tally-emoji-text="👋" data-tally-emoji-animation="wave">Sign up for updates</button>
+</section>
+
 
 ## Race Calendar
 
@@ -33,10 +37,6 @@ Plan your next long way with the race dates announced so far.
 | [The Hodge Podge](tip2tipgravel.qmd) | **September 25 – October 3, 2027** |
 | [The Nor'Easter](noreaster-race.qmd) | **Planned for 2028** — exact dates to be announced |
 
-<section class="registration-updates" aria-labelledby="series-updates-heading">
-  <h3 id="series-updates-heading">Stay Updated (and hydrated)</h3>
-  <button class="registration-signup-button" type="button" data-tally-open="KpVzl7" data-tally-emoji-text="👋" data-tally-emoji-animation="wave">Sign up for updates</button>
-</section>
 
 ## Explore the Races
 
