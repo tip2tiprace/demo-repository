@@ -2,6 +2,7 @@
 title: "Registration"
 title-block-banner: false
 page-layout: full
+body-classes: updates-popup-page
 ---
 
 ::: {.race-header .column-screen}
@@ -32,22 +33,25 @@ Plan your next long way with the race dates announced so far.
 | [The Hodge Podge](tip2tipgravel.qmd) | **September 25 – October 3, 2027** |
 | [The Nor'Easter](noreaster-race.qmd) | **Planned for 2028** — exact dates to be announced |
 
+<section class="registration-updates" aria-labelledby="series-updates-heading">
+  <h3 id="series-updates-heading">Stay Updated (and hydrated)</h3>
+  <button class="registration-signup-button" type="button" data-tally-open="KpVzl7" data-tally-emoji-text="👋" data-tally-emoji-animation="wave">Sign up for updates</button>
+</section>
+
 ## Explore the Races
 
 <nav class="registration-races" aria-label="Explore the races">
   <a href="tip2tiprace.qmd">
     <img src="images/logos/tip2tip-logo.jpg" alt="Tip 2 Tip Nova Scotia">
   </a>
-  <a href="tip2tipgravel.qmd" class="registration-mystery">
-    <span aria-hidden="true">?</span>
-    <span class="race-card-label">The Hodge Podge</span>
+  <a href="tip2tipgravel.qmd">
+    <img src="images/logos/hodgepodge-logo.png" alt="The Hodge Podge">
   </a>
   <a href="locomotion-600.qmd">
     <img src="images/logos/loco600-logo.png" alt="LOCOmotion 600">
   </a>
-  <a href="noreaster-race.qmd" class="registration-mystery">
-    <span aria-hidden="true">?</span>
-    <span class="race-card-label">The Nor'Easter</span>
+  <a href="noreaster-race.qmd">
+    <img src="images/logos/noreaster-logo.svg" alt="The Nor'Easter">
   </a>
 </nav>
 

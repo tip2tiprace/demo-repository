@@ -1,6 +1,7 @@
 ---
 page-layout: full
 title-block-banner: false
+body-classes: updates-popup-page
 ---
 ::: {.race-header}
 ![](images/about-hero.jpg)
@@ -12,11 +13,13 @@ title-block-banner: false
 
 :::
 
-The Long Way Cycling Series is Nova Scotia’s homegrown long-distance cycling series, born out of a slightly unhinged idea back in 2020. With international races off the calendar and ultra-endurance cycling events in Atlantic Canada pretty much nonexistent, three cyclists, soon to become friends, decided to make their own adventure: ride across Nova Scotia, Tip 2 Tip!
+The Long Way Cycling Series is Nova Scotia’s homegrown long-distance cycling series, born out of a slightly unhinged idea back in 2020. When the pandemic had us in lockdown, international races were off the calendar and ultra-endurance cycling events in Atlantic Canada were pretty much nonexistent, three cyclists, soon to become friends, decided to make their own adventure: ride across Nova Scotia, Tip 2 Tip!
 
-From Hawk Beach to Meat Cove, roughly 750 km from one end of the province to the other, with plenty of hills, headwinds, and questionable life choices along the way. What started as one big ride got them thinking: if we were looking for this kind of adventure close to home, surely other people were too?
+From Hawk Beach to Meat Cove, the three covered roughly 750 km from one end of the province to the other, with plenty of hills, headwinds, and questionable life choices along the way. What started as one big ride got them thinking: if we were looking for this kind of adventure close to home, surely other people were too?
 
-And so The Long Way Cycling Series was born. What began with Tip 2 Tip has grown into a series of self-supported endurance cycling events that take riders across Nova Scotia and beyond. Different distances, different routes, and plenty of new challenges, but the idea remains the same: get on your bike, go somewhere, and see what happens along the way.
+And so The Long Way Cycling Series was born. What began with Tip 2 Tip has grown into a series of self-supported endurance cycling events that take riders across Nova Scotia and beyond. Different distances, different routes, but the idea remains the same: <strong> get on your bike, go somewhere, and see what happens along the way </strong>
+
+
 
 ```{=html}
 <div class="race-cards">
@@ -33,9 +36,9 @@ And so The Long Way Cycling Series was born. What began with Tip 2 Tip has grown
     </div>
   </a>
 
-  <a href="tip2tipgravel.qmd" class="race-card race-card-secret">
-    <div class="race-logo race-logo-secret">
-      <span>?</span>
+  <a href="tip2tipgravel.qmd" class="race-card">
+    <div class="race-logo">
+      <img src="images/logos/hodgepodge-logo.png" alt="The Hodge Podge logo">
     </div>
     <div class="race-card-content">
       <div class="race-card-label">THE GRAVEL EDITION</div>
@@ -50,16 +53,19 @@ And so The Long Way Cycling Series was born. What began with Tip 2 Tip has grown
       <img src="images/logos/loco600-logo.png" alt="LOCOmotion 600 logo">
     </div>
     <div class="race-card-content">
-      <div class="race-card-label">THE 600</div>
-      <h2>LOCOmotion 600</h2>
+      <div class="race-card-label">THE ENTRY</div>
+      <h2>The LOCOmotion</h2>
       <p>~650 km · Fixed route · Self-supported</p>
+      <p class="race-card-teaser">
+        A little more LOCO is coming in 2027...
+      </p>
       <span class="race-card-link">Explore the ride →</span>
     </div>
   </a>
 
   <a href="noreaster-race.qmd" class="race-card race-card-secret">
     <div class="race-logo race-logo-secret">
-      <span>?</span>
+      <img src="images/logos/noreaster-logo.svg" alt="Nor'Easter logo">
     </div>
     <div class="race-card-content">
       <div class="race-card-label">COMING 2028</div>
@@ -72,7 +78,7 @@ And so The Long Way Cycling Series was born. What began with Tip 2 Tip has grown
 ```
 ```{=html}
 <section class="follow-us" aria-labelledby="follow-us-heading">
-  <img class="follow-us-logo" src="images/logos/longway-logo.jpg" alt="The Long Way Endurance Cycling Series" loading="lazy">
+  <img class="follow-us-logo" src="images/logos/the_long_way_logo_black.svg" alt="The Long Way Endurance Cycling Series" loading="lazy">
   <div class="follow-us-content">
     <h2 id="follow-us-heading">FOLLOW US</h2>
     <div class="follow-us-links">
@@ -85,6 +91,18 @@ And so The Long Way Cycling Series was born. What began with Tip 2 Tip has grown
       <span>Instagram</span>
     </a>
     </div>
+  </div>
+</section>
+```
+
+```{=html}
+<section class="land-acknowledgement" aria-labelledby="land-acknowledgement-heading">
+  <span class="land-acknowledgement-mark" aria-hidden="true"></span>
+  <div class="land-acknowledgement-content">
+    <p>The Long Way Cycling Series takes place in Mi'kma'ki, the ancestral and unceded territory of the Mi'kmaq People.</p>
+    <p>As we ride through the forests, coastlines, and communities of Nova Scotia, we acknowledge the Mi'kmaq as the past, present, and future caretakers of these lands and waters.</p>
+    <p>We are grateful for the opportunity to explore these places and recognize our shared responsibility to respect and care for the land we travel through.</p>
+    <p class="land-acknowledgement-treaty"><strong>We are all Treaty People.</strong></p>
   </div>
 </section>
 ```

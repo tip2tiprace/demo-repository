@@ -1,11 +1,13 @@
 project:
   type: website
+  resources:
+    - updates-popup.js
 
 website:
   title: ""
-  favicon: images/logos/longway-logo.jpg
+  favicon: images/logos/the_long_way_logo_black.svg
   navbar:
-    logo: images/logos/longway-logo.jpg
+    logo: images/logos/the_long_way_logo_black.svg
     logo-alt: "The Long Way home"
     logo-href: index.qmd
     left:
@@ -47,7 +49,7 @@ website:
       - href: shop.qmd
         text: Merch
       - href: Supporters.qmd
-        text: Supporters
+        text: Behind the pedals
     right:
       - icon: instagram
         href: https://www.instagram.com/thelongwayseries_ns/
@@ -65,3 +67,6 @@ format:
     include-in-header:
       text: |
         <meta name="robots" content="noindex, nofollow">
+    include-after-body:
+      text: |
+        <script src="updates-popup.js"></script>

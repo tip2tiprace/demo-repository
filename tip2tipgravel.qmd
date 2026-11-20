@@ -11,11 +11,13 @@ body-classes: race-page
 <div class="fkt-hero-content">
 <img class="fkt-series-logo" src="images/logos/the_long_way_logo_transparent.svg" alt="The Long Way Endurance Cycling Series">
 <h1>The Hodge Podge</h1>
-<p class="fkt-hero-tagline">A NOVA SCOTIA GRAVEL ADVENTURE</p>
-<div class="fkt-hero-stats fkt-hero-stats-compact">
+<div class="fkt-hero-stats">
+<span><strong>GRAVEL ADVENTURE ·</strong> KM</span>
+<span><strong>SEP 25 – OCT 3, 2027 ·</strong></span>
 <span><strong>SELF-SUPPORTED</strong></span>
 </div>
 </div>
+
 :::
 
 ## Tip 2 Tip, but off the pavement!
@@ -70,10 +72,10 @@ Relay team
 :::
 
 ::: {.race-format-summary}
-One route. Your team. Split the adventure.
+One route. One team. Passed between riders.
 :::
 
-Want to share the Hodge Podge? Gather a team and split the route however you like.
+Want to share the Hodge Podge? Gather a relay team and take turns covering the route.
 
 Riders can switch at designated checkpoints along the course. Take on one section, two, or as many as you want. There's no set distance each rider needs to cover, but all rider changes must happen at official checkpoints. The active rider must reach the checkpoint before handing over to the next team member.
 
@@ -86,9 +88,8 @@ How you divide the distance is up to your team. Just make sure someone is always
 
 ```{=html}
 <div class="loco-register column-screen">
-  <div class="race-registration-logo registration-mystery">
-    <span aria-hidden="true">?</span>
-    <span class="race-card-label">The Hodge Podge</span>
+  <div class="race-registration-logo">
+    <img src="images/logos/hodgepodge-logo.png" alt="The Hodge Podge logo">
   </div>
   <a href="register.qmd" class="race-registration-details">
 

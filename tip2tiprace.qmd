@@ -15,7 +15,7 @@ filters:
 <h1>Tip 2 Tip</h1>
 <div class="fkt-hero-stats">
 <span><strong>1,000–1,200</strong> KM</span>
-<span><strong>5</strong> DAYS</span>
+<span><strong>AUG 28 – SEP 2, 2027</strong></span>
 <span><strong>SELF-SUPPORTED</strong></span>
 </div>
 </div>
@@ -62,7 +62,7 @@ filters:
 ::: {.race-formats .column-screen}
 ## Race Formats
 
-Take on the full Tip 2 Tip route solo or as a pair. Choose your checkpoints and make your own way across Nova Scotia.
+Take on the full Tip 2 Tip route solo or as a pair. Hit the checkpoints as you make your own way across Nova Scotia.
 
 ::: {.race-format-grid}
 ::: {.race-format-card .race-format-full}
