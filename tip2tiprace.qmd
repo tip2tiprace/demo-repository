@@ -8,7 +8,7 @@ filters:
 ---
 
 ::: {.race-header .column-screen}
-![](images/tip2tip-hero.jpg)
+![](images/tip2tip-hero.jpg){fetchpriority="high" decoding="async"}
 
 <div class="fkt-hero-content">
 <img class="fkt-series-logo" src="images/logos/the_long_way_logo_transparent.svg" alt="The Long Way Endurance Cycling Series">
@@ -97,13 +97,13 @@ Work together, draft one another, and decide as a team how to connect the checkp
 <iframe src="https://www.followmychallenge.com/live/tip2tipns25/" title="Tip 2 Tip 2025 past-edition tracking map" loading="lazy" allowfullscreen></iframe>
 ```
 
-**Past edition: Tip 2 Tip 2025.** This is not the upcoming race course.
+<strong>Past edition: Tip 2 Tip 2025.</strong>This is not the upcoming race course.
 :::
 
 ::: {.race-route-text}
-There is **no prescribed route**. Riders are given a series of checkpoints scattered across the province and choose how to connect them. The shortest route isn't always the fastest, and the best idea at noon can look considerably worse at 2 a.m.
+There is <strong>no prescribed route</strong>. Riders are given a series of checkpoints scattered across the province and choose how to connect them. The shortest route isn't always the fastest, and the best idea at noon can look considerably worse at 2 a.m.
 
-Checkpoints change between editions;. Please use the information provided for your race when planning your ride.
+Checkpoints change between editions. Please use the information provided for your race when planning your ride.
 :::
 ::::
 
@@ -135,7 +135,7 @@ Meet the riders from previous editions and explore their results.
 ```{=html}
 <div class="loco-register">
   <div class="race-registration-logo">
-    <img src="images/logos/tip2tip-logo.jpg" alt="Tip 2 Tip Nova Scotia logo">
+    <img src="images/logos/tip2tip-logo.jpg" alt="Tip 2 Tip Nova Scotia logo" loading="lazy" decoding="async">
   </div>
   <a href="register.qmd" class="race-registration-details">
 

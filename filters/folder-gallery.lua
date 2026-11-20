@@ -28,6 +28,7 @@ function Div(div)
         pandoc.Attr("", {"lightbox"}, {
           loading = "lazy",
           decoding = "async",
+          fetchpriority = "low",
           group = "tip2tip-gallery"
         })
       )
