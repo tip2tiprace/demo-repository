@@ -26,7 +26,7 @@ And so The Long Way Cycling Series was born. What began with Tip 2 Tip has grown
 
   <a href="tip2tiprace.qmd" class="race-card">
     <div class="race-logo">
-      <img src="images/logos/tip2tip-logo.jpg" alt="Tip 2 Tip Nova Scotia logo">
+      <img src="images/logos/tip2tip-logo.svg" alt="Tip 2 Tip Nova Scotia logo">
     </div>
     <div class="race-card-content">
       <div class="race-card-label">THE ORIGINAL</div>
@@ -50,7 +50,7 @@ And so The Long Way Cycling Series was born. What began with Tip 2 Tip has grown
 
   <a href="locomotion-600.qmd" class="race-card">
     <div class="race-logo">
-      <img src="images/logos/loco600-logo.png" alt="LOCOmotion 600 logo">
+      <img src="images/logos/loco600-logo.svg" alt="LOCOmotion 600 logo">
     </div>
     <div class="race-card-content">
       <div class="race-card-label">THE ENTRY</div>

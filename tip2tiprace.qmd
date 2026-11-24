@@ -96,8 +96,6 @@ Work together, draft one another, and decide as a team how to connect the checkp
 ```{=html}
 <iframe src="https://www.followmychallenge.com/live/tip2tipns25/" title="Tip 2 Tip 2025 past-edition tracking map" loading="lazy" allowfullscreen></iframe>
 ```
-
-<strong>Past edition: Tip 2 Tip 2025.</strong>This is not the upcoming race course.
 :::
 
 ::: {.race-route-text}
@@ -135,7 +133,7 @@ Meet the riders from previous editions and explore their results.
 ```{=html}
 <div class="loco-register">
   <div class="race-registration-logo">
-    <img src="images/logos/tip2tip-logo.jpg" alt="Tip 2 Tip Nova Scotia logo" loading="lazy" decoding="async">
+    <img src="images/logos/tip2tip-logo.svg" alt="Tip 2 Tip Nova Scotia logo" loading="lazy" decoding="async">
   </div>
   <a href="register.qmd" class="race-registration-details">
 

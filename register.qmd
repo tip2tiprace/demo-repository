@@ -42,13 +42,13 @@ Plan your next long way with the race dates announced so far.
 
 <nav class="registration-races" aria-label="Explore the races">
   <a href="tip2tiprace.qmd">
-    <img src="images/logos/tip2tip-logo.jpg" alt="Tip 2 Tip Nova Scotia">
+    <img src="images/logos/tip2tip-logo.svg" alt="Tip 2 Tip Nova Scotia">
   </a>
   <a href="tip2tipgravel.qmd">
     <img src="images/logos/hodgepodge-logo.png" alt="The Hodge Podge">
   </a>
   <a href="locomotion-600.qmd">
-    <img src="images/logos/loco600-logo.png" alt="LOCOmotion 600">
+    <img src="images/logos/loco600-logo.svg" alt="LOCOmotion 600">
   </a>
   <a href="noreaster-race.qmd">
     <img src="images/logos/noreaster-logo.svg" alt="The Nor'Easter">
