@@ -1,8 +1,18 @@
 ---
 title: "FAQ"
+title-block-banner: false
+page-layout: full
 ---
 
-# Frequently Asked Questions
+::: {.race-header .column-screen}
+![](images/faq-hero.jpg)
+
+<div class="fkt-hero-content">
+<div class="fkt-kicker">The Long Way</div>
+<h1>Frequently Asked Questions</h1>
+</div>
+
+:::
 
 ## What is a self-supported ride?
 

@@ -1,5 +1,5 @@
 ---
-title: The Rules
+title: Rules
 title-block-banner: false
 page-layout: full
 ---
@@ -9,12 +9,12 @@ page-layout: full
 
 <div class="fkt-hero-content">
 <div class="fkt-kicker">The Long Way</div>
-<h1>The Rules</h1>
+<h1>Rules</h1>
 </div>
 
 :::
 
-**No debating the rules.**
+## No debating the rules!
 
 The Long Way Cycling Series events are self-supported rides. The rules are simple, and they're based on the honour system. Please follow them and respect the self-supported nature of the event.
 
@@ -26,7 +26,7 @@ The Long Way Cycling Series events are self-supported rides. The rules are simpl
 * A **helmet must be worn at all times** while riding.
 * Follow the **rules of the road**.
 * **No drafting**, unless you are riding as a registered pair.
-* Anything you bring with you at the start must make it back to the finish with you, excluding consumables.
+* Anything you bring with you at the start must make it back to the finish with you, excluding consumables, which must be disposed of appropriatley (no littering!)
 
 ***
 
@@ -41,11 +41,9 @@ You must **finish together**. If one rider cannot finish, the pair will be recor
 ## Self-Supported Means Self-Supported
 
 * **No outside assistance of any kind.**
-* Any service you use—food, accommodation, mechanical services, supplies, etc.—must be **commercially available to all riders**.
+* Any service you use including food, accommodation, mechanical services, supplies, etc must be **commercially available to all riders**.
 * Arranging to "meet" friends or family along the route is considered outside support.
-* Accommodation cannot be booked before the ride begins.
-
-**One exception:** Because of the relative remoteness of the Cape Breton portion of the route, riders may book accommodation in advance for the night they expect to complete the ride.
+* Accommodation cannot be booked before the race begins. However, there is **one exception:** Because of the relative remoteness of the Cape Breton portion of the route, riders may book accommodation in advance of the race start for the night they expect to complete the ride.
 
 ***
 

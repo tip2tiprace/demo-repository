@@ -5,6 +5,7 @@ project:
 
 website:
   title: ""
+  site-url: https://longwaycycling.com
   favicon: images/logos/the_long_way_logo_black.svg
   navbar:
     logo: images/logos/the_long_way_logo_black.svg
@@ -14,7 +15,7 @@ website:
       - href: index.qmd
         text: About
       - href: tip2tip-fkt.qmd
-        text: Tip 2 Tip FKT
+        text: FKT
 
       - text: Races
         menu:
@@ -33,9 +34,6 @@ website:
             text: Tip 2 Tip
           - href: alumni-locomotion.qmd
             text: LOCOmotion 600
-      
-      - href: tracker.qmd
-        text: Live Tracker
 
       - text: Resources
         menu:
@@ -54,19 +52,18 @@ website:
       - icon: instagram
         href: https://www.instagram.com/thelongwayseries_ns/
         aria-label: Instagram
+        text: Instagram
 
       - icon: facebook
         href: https://www.facebook.com/tip2tipns/
         aria-label: Facebook
+        text: Facebook
 
 format:
   html:
     theme: lux
     css: styles.css
     toc: false
-    include-in-header:
-      text: |
-        <meta name="robots" content="noindex, nofollow">
     include-after-body:
       text: |
         <script src="updates-popup.js"></script>

@@ -12,8 +12,8 @@ body-classes: race-page
 <img class="fkt-series-logo" src="images/logos/the_long_way_logo_transparent.svg" alt="The Long Way Endurance Cycling Series">
 <h1>The Hodge Podge</h1>
 <div class="fkt-hero-stats">
-<span><strong>GRAVEL ADVENTURE ·</strong> KM</span>
-<span><strong>SEP 25 – OCT 3, 2027 ·</strong></span>
+<span><strong>A GRAVEL ADVENTURE · 1000</strong>KM</span>
+<span><strong>· SEP 25 – OCT 3, 2027 ·</strong></span>
 <span><strong>SELF-SUPPORTED</strong></span>
 </div>
 </div>
@@ -33,7 +33,7 @@ In The Hodge Podge, expect around 70% off-road, remote stretches, rough terrain,
 Ever heard of the Darién Gap in Nova Scotia? No? Well, you're going to ride through it. Throw in the Pipeline, bear country, a few river crossings, forgotten tracks, and some of the wilder corners of the province, and you've got a pretty good idea of what you're signing up for. And rail trails? We avoid those at all costs!
 
 In true Hodge Podge fashion, it's a bit of everything thrown together. Some sections will be fast and fun, others might have you questioning your life choices, but put it all together and you've got something pretty special.
-***
+
 
 ::: {.race-formats .column-screen}
 ## When?
@@ -96,7 +96,7 @@ How you divide the distance is up to your team. Just make sure someone is always
   <h2>READY TO RIDE A LONG WAY?</h2>
 
   <p>
-    Take on the full Hodge Podge solo or as a pair,
+    Take on the full Hodge Podge solo, as a pair,
     or share the adventure with a relay team.
   </p>
 

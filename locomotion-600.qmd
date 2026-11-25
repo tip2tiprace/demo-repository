@@ -31,13 +31,11 @@ The LOCOmotion has become a bit of Nova Scotia cycling legend. Every year, rider
 
 It's an event built around the idea that long-distance cycling should be challenging, adventurous and a little bit ridiculous, but also something more people can have a go at. The LOCOmotion is a great introduction to self-supported endurance riding: long enough to test your legs, planning and resilience, while keeping you relatively close to civilization.
 
-<strong>And in 2027, the LOCOmotion family is growing.</strong> 
+<strong>And in 2027, the LOCOmotion family is growing.</strong>
 
-The original <strong>LOCOmotion 600</strong> returns, with 600+ kilometres and 60 hours to make it back to Halifax. Joining it for the first time is the <strong>PocoLOCO 300</strong>, a shorter 300 km challenge that's just as much a race as it is an introduction to long-distance riding.
+The original <strong>LOCOmotion 600</strong> returns, with 600+ kilometres and 60 hours to make it back to Halifax. Joining it for the first time is the <strong>pocoLOCO</strong>, a shorter 300 km challenge that's just as much a race as it is an introduction to long-distance riding.
 
 For some, 300 km will be the biggest ride they've ever attempted. For others, it's a chance to go flat out and race against the clock.
-
-Two distances, plenty of ways to get LOCO.
 
 ## When?
 
@@ -46,7 +44,7 @@ Two distances, plenty of ways to get LOCO.
 [Registration for all races opens in January/February 2027.](register.qmd)
 
 ::: {.race-formats .column-screen}
-## Choose Your Ride
+## Two distances, plenty of ways to get LOCO!
 
 ::: {.race-format-grid}
 ::: {.race-format-card .race-format-full}
@@ -60,7 +58,7 @@ Take on the full fixed route solo at your own pace, or ride as a pair and work t
 :::
 
 ::: {.race-format-card .race-format-pairs}
-### pocoLOCO 300
+### pocoLOCO
 
 **300 km**
 
@@ -117,7 +115,7 @@ Meet the riders from previous editions and explore their results.
 ***
 ## THINKING ABOUT RIDING?
 
-You don't need to have ridden hundreds of kilometres before, or even consider yourself an endurance cyclist, to take on <strong> the LOCOmotion 600 </strong>. Maybe this is your first big cycling challenge, maybe you're curious about how far you can go, or maybe you're an experienced ultra-racer looking to push the pace. Whatever brings you to the start line, With the original,<strong> the LOCOmotion 600</strong>, and the new <strong> pocoLOCO </strong>, there are now two ways to give it a go, figure things out along the way and see what you're capable of.
+You don't need to have ridden hundreds of kilometres before, or even consider yourself an endurance cyclist, to take on <strong> the LOCOmotion 600 </strong>. Maybe this is your first big cycling challenge, maybe you're curious about how far you can go, or maybe you're an experienced ultra-racer looking to push the pace. Whatever brings you to the start line, With the original,<strong> the LOCOmotion 600</strong>, and the new <strong> pocoLOCO</strong>, there are now two ways to give it a go, figure things out along the way and see what you're capable of.
 
 There's no single right way to approach the LOCOmotion. Some riders will race each other, some the clock. Others will take a more measured approach, stopping for a proper meal or a rest. Whatever your strategy, the challenge is the same: get yourself and your bike back to Halifax as fast as you can.
 
