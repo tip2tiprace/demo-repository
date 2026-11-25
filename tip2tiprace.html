@@ -286,7 +286,7 @@ The Route
 <p>Meet the riders from previous editions and explore their results.</p>
 <p><a href="./alumni.html">View Tip 2 Tip alumni and results →</a><br>
 </p>
-<div class="race-photo-strip" aria-label="Race photo gallery. Scroll sideways to browse photos." tabindex="0" role="region">
+<div class="race-photo-strip" aria-label="Race photo gallery. Scroll sideways to browse photos." role="region" tabindex="0">
 <div class="race-photo">
 <a href="images/tip2tip_gallery/20220716_070532.jpg" class="lightbox" data-gallery="tip2tip-gallery" title="Race photo: 20220716 070532"><img src="images/tip2tip_gallery/20220716_070532.jpg" class="img-fluid" loading="lazy" decoding="async" fetchpriority="low" alt="Race photo: 20220716 070532"></a>
 </div>
@@ -519,7 +519,7 @@ The Route
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/longwaycycling\.com");
+        var filterRegex = new RegExp("https:\/\/thelongwaycycling\.com");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
