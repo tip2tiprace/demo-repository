@@ -2,7 +2,6 @@
 title: "Registration"
 title-block-banner: false
 page-layout: full
-body-classes: updates-popup-page
 ---
 
 ::: {.race-header .column-screen}
@@ -19,12 +18,6 @@ body-classes: updates-popup-page
 ## Ready to Ride a Long Way?
 
 **Registration for all races opens in January/February 2027.**
-
-<section class="registration-updates" aria-labelledby="series-updates-heading">
-  <h3 id="series-updates-heading">Stay Updated (and hydrated)</h3>
-  <button class="registration-signup-button" type="button" data-tally-open="KpVzl7" data-tally-emoji-text="👋" data-tally-emoji-animation="wave">Sign up for updates</button>
-</section>
-
 
 ## Race Calendar
 
@@ -55,4 +48,21 @@ Plan your next long way with the race dates announced so far.
   </a>
 </nav>
 
+
 :::
+
+::: {.race-resources}
+[Race Rules](rules.qmd) [FAQ](FAQ.qmd)
+:::
+
+
+
+```{=html}
+<section class="signup-strip column-screen" aria-labelledby="race-updates-heading">
+  <div>
+    <h2 id="race-updates-heading">STAY UPDATED (AND HYDRATED)</h2>
+    <p>Get race announcements and updates from The Long Way.</p>
+  </div>
+  <button class="signup-strip-button" type="button" data-tally-open="KpVzl7" data-tally-emoji-text="👋" data-tally-emoji-animation="wave">Sign up for updates</button>
+</section>
+```

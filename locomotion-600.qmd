@@ -166,3 +166,13 @@ you'll leave with stories, new friends and maybe even a reason to do it all agai
 ::: {.race-resources}
 [Race Rules](rules.qmd) [FAQ](FAQ.qmd)
 :::
+
+```{=html}
+<section class="signup-strip column-screen" aria-labelledby="race-updates-heading">
+  <div>
+    <h2 id="race-updates-heading">STAY UPDATED (AND HYDRATED)</h2>
+    <p>Get race announcements and updates from The Long Way.</p>
+  </div>
+  <button class="signup-strip-button" type="button" data-tally-open="KpVzl7" data-tally-emoji-text="👋" data-tally-emoji-animation="wave">Sign up for updates</button>
+</section>
+```

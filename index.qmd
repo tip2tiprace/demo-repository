@@ -1,7 +1,6 @@
 ---
 page-layout: full
 title-block-banner: false
-body-classes: updates-popup-page
 ---
 ::: {.race-header}
 ![](images/about-hero.jpg)
