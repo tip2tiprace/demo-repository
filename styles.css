@@ -360,6 +360,66 @@ main#quarto-document-content section.page-columns {
   text-decoration: underline;
 }
 
+.signup-strip {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 2rem;
+  width: 100%;
+  max-width: none;
+  margin: 0 auto 4rem;
+  padding: clamp(2rem, 5vw, 4rem);
+  background: #222;
+  color: #fff;
+}
+
+.signup-strip.column-screen {
+  width: 100%;
+  max-width: none;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.signup-strip h2 {
+  margin: 0 0 0.5rem;
+  color: inherit;
+  font-size: clamp(1.5rem, 3vw, 2.5rem);
+  font-weight: 900;
+}
+
+.signup-strip p {
+  margin: 0;
+}
+
+.signup-strip-button {
+  flex: 0 0 auto;
+  min-height: 3rem;
+  padding: 0.75rem 1.5rem;
+  border: 0;
+  background: #fff;
+  color: #222;
+  font: inherit;
+  font-weight: 800;
+  cursor: pointer;
+  transition: background 0.2s ease;
+}
+
+.signup-strip-button:hover {
+  background: #ddd;
+}
+
+.signup-strip-button:focus-visible {
+  outline: 3px solid #d7cebe;
+  outline-offset: 4px;
+}
+
+@media (max-width: 700px) {
+  .signup-strip {
+    flex-direction: column;
+    text-align: center;
+  }
+}
+
 .follow-us {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
